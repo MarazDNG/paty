@@ -1,0 +1,283 @@
+vìènost - die Ewichkeit -0-1
+vyobrazení - das Abbild -0-1
+právì, rovnı/rovnì - gerade -0-1
+snídanì - das Frühstück -0-1
+bìet/bìhat, chodit(hov.) - laufen -0-1
+posadit se/sednout si - (sich) setzen -0-1
+prodejní pult - der Landentisch -0-1
+toti - nämlich -1-1
+náramek - das Armband -0-1
+pøi tom - dabei -0-1
+krerı/která/které - welcher/welche/welches -1-1
+salám - die Wurst -0-1
+uèitel - der Lehrer -1-1
+snad/asi - wohl -0-1
+moci/smìt - dürfen -0-1
+chudı (na)/chudì - arm (an 3.p.) -0-1
+zakázanı - verboten -0-1
+brána - das Tor -0-1
+podívej (se)! - seih mal! -0-1
+zaplatit - bezahlen -0-1
+vesnice - das Dorf -0-1
+povolání - der Beruf -0-1
+obdivovat - bewunder -0-1
+hrad - die Burg -0-1
+pøíjemnı/pohodlnı/útulnı - gemütlich -0-1
+zpùsobit/zpùsobovat - verursachen -0-1
+samotnı/sám - allein -0-1
+vèas - rechtzeitig -0-1
+kyselé zelí - das Sauerkraut -0-1
+koupit si - sich kaufen -0-1
+do, po, podle - nach -0-1
+okno - das Fenster -0-1
+koupat (se) - baden -0-1
+objednat/objednávat - bestellen -0-1
+koho/èeho/èí - wessen -1-1
+koneènì - endlich -0-1
+Tìší mì. - Sehr angenehm. -0-1
+seznámit (s nìkım) - bekannt machen -0-1
+pøíjemnı/pøíjemnì - angenehm -0-1
+kolega - der Kollege -0-1
+jen/pouze - nur -0-1
+nic - nichts -0-1
+proti - gegen -0-1
+volnı - frei -0-1
+obávat se - befürchten -0-1
+uèit se - lernen -0-1
+zkusit - versuchen -0-1
+fenik - der Pfeenig -0-1
+vybrat (si)/ vybírat (si)/vyhledat - (sich) aus/suchen -0-1
+køiovatka - die Kreuzung -0-1
+èestnı - ehrenhaft -0-0
+kdysi/jednou - einst -0-0
+koneènì - schließlich -7-0
+úskoènı/záludnı - hinterlistig -0-0
+kouzelnictví/èáry - die Zauberei -0-0
+svoboda - die Freiheit -0-0
+zajetí - die Gefangenschaft -0-0
+(z)kazit (se) - verderben -0-0
+tak, e/tím, e - indem -0-0
+zvítìzit/porazit - besiegen -0-0
+smrtelnı - sterblich -0-0
+ohroení - die Bedrohung -0-0
+od (doby) - seit -0-0
+pomsta - die Rache -0-0
+vzhled - die Gestalt -0-0
+døívìjší/bıvalı - ehemalig -0-0
+ukradenı - gestohlenen -0-0
+obsahovat/zahrnovat - enthalten -0-0
+pouít - benutzen -0-0
+zbraò - die Waffe -1-0
+magickı - magisch -0-0
+nerozvánı/neuváenı - umbedacht -0-0
+zmìnit/promìnit - verwandeln -0-0
+prázdnota - die Leere -0-0
+obránci - der Verteidiger -0-0
+èekat (na) - warten (auf 4.p) -0-0
+èaj - der Tee -0-0
+kus/kousek - das Stück -0-0
+šaty - das Kleid -0-0
+èesat (se) - (sich) kämmen -0-0
+pomáhat/pomoci (pøi, s) - helfen (bei, mit) -0-0
+ihned - gleich -0-0
+dost - genug -0-0
+šunka - der Schinken -0-0
+jet/jezdit - fahren -0-0
+sedìt - sitzen -0-0
+podìkovat - danken -0-0
+sem - hierher -0-0
+houska - das Brötchen -0-0
+doprovodit/(do)provázet - begleiten -0-0
+snad/tøeba/moná - vielleicht -0-0
+proto - deshalb -0-0
+bezradnı/bezradnì - ratlos -0-0
+nikdo - niemand -0-0
+(nìkdy) jindy - (ein) andermal -0-0
+øetízek/náhrdelník - die Kette -0-0
+dárek - das Geschenk -0-0
+rozhodnout (se)/rozhodovat (se) - (sich) entscheiden -0-0
+napadnout - ein/fallen -0-0
+doporuèit/doporuèovat - empfehlen -0-0
+darovat/dát - schenken -0-0
+nabídnout - anbieten -0-0
+pospíšit si - sich beeilen -0-0
+trochu - ein bißchen -0-0
+hodit se - sich eignen -0-0
+jako - als -0-0
+málo - wenig -0-0
+mıt (se, si), prát - (sich) waschen -0-0
+k tomu - dazu -0-0
+chleba - das Brot -0-0
+víno - der Wein -0-0
+host - der Gast -0-0
+jít dál - weiter/gehen -0-0
+napøed - zuerst -0-0
+dokonce - sogar -0-0
+klobása - die Bochwurst -0-0
+dávat - geben -0-0
+teta - die Tante -0-0
+chlapec/choch/kluk - der Junge -0-0
+strıc - der Onkel -0-0
+sır - der Käse -0-0
+káva - der Kaffee -0-0
+vlastnì - eigentlich -0-0
+obchodní dùm - das Warenhaus -0-0
+prohlédnout si/prohlíet si - (sich) au/sehen -0-0
+koláè - der Kuchen -0-0
+asi/kolem - ungefähr -0-0
+asi/pøiblinì - etwa -0-0
+ukázat/ukazovat - zaigen -0-0
+kroj - die Tracht -0-0
+les - der Wald -1-0
+voda - das Wasser -2-0
+(vy)èistit, uklízet - sauber machen -0-0
+strávit (èas) - verbringen -0-0
+èistı/èistì - sauber -1-0
+opravit/opravovat - reparieren -0-0
+vyprávìt/vypravovat - erzählen -0-0
+vıznamnı/vıznamnì - bedeutend -0-0
+pøesnı/pøesnì - genau -0-0
+nazvat/nazıvat, jmenovat - nennen -0-0
+pohádka - das Märchen -0-0
+rozbitı - kaputt -0-0
+øidièák - der Führensehein -0-0
+zastavit/zastavovat - an/halten -0-0
+strach - die Angst -1-0
+prohlídka - die Besichtigung -0-0
+prohlédnout si - besichtigen -0-0
+oba/obì - beide -0-0
+most - die Brücke -0-0
+kostel - die Kirche -0-0
+hl. mìsto - die Haupstadt -0-0
+dojem - der Eindruck -0-0
+pomník - das Denkmal -0-0
+nìkteøí, nìkolik - einige -0-0
+takovı - solcher -0-0
+nìkolik/mnozí - mehrere -0-0
+cestou/na cestì - unterwegs -0-0
+dúleitı/dùleitì - wichtig -0-0
+poèítat - zählen -0-0
+idtamtud - von dort aus -0-0
+z toho - davon -0-0
+kraj/krajina - die Gegend -0-0
+pilnı/pilnì - fleißig -0-0
+pro dnešek dost - für heute Schluß -0-0
+chyba - der Fehler -0-0
+radost/potìšení - die Freude -0-0
+rovnì/pøímo - geradeaus -0-0
+èlun/loïka - der Kahn -0-0
+stát se/pøihodit se - passieren -0-0
+lhát - lügen -0-0
+pùvabnı/pùvabnì - reizvoll -0-0
+komár - die Mücke -0-0
+jih - der Süden -0-0
+èasto/èastı - häufig -0-0
+patro - das Geschoß -0-0
+ne - als -0-0
+tvrdit - behaupten -0-0
+e - daß -0-0
+zelenina - das Gemüse -0-0
+zdravı/zdravì - gesund -0-0
+alespoò - minderstens -0-0
+(po)radit, hádat - raten -0-0
+maso - das Fleisch -0-0
+vyhlídka - die Aussicht -0-0
+oroèit (se)/otáèet (se) - (sich) drehen -0-0
+pìstovat/provozovat - treiben -0-0
+jít spát/jít do postele - zu Bett gehen -0-0
+ve dne/bìhem dne - am Tag -0-0
+pravidelnı/pravidelnì - regelmäßig -0-0
+chybnı/chybnì - falsch -0-0
+knedlík - der Knödel -0-0
+mít povinnost - sollen -0-0
+posadit se - sich setzen -0-0
+moci/smìt - können -8-0
+smìt - dürfen -0-0
+vìdìt - wissen -0-0
+mít rád/mít chu - mögen -0-0
+chtít - wollen -0-0
+Jsme velmi rád. - Ich bin sehr froh. -0-0
+rád - froh -0-0
+z - aus -1-0
+jen/pouze - nur -8-0
+spoleènost - die Gesselschaft -0-0
+bohuel - leider -0-0
+sice - zwar -0-0
+byt - die Wohnung -0-0
+chata/chalupa - das Wochenendhaus -0-0
+koho - wen -0-0
+zvìdavı - neugierig -0-0
+jistı/jistì, urèitı/urèitì - bestimmat -0-0
+dosud - bisher -1-0
+enatı/vdaná - verhairatet -0-0
+tak/tedy - also -0-0
+Ještì nìco? - Sonst noch etwas? -0-0
+pøát (si) - (sich) wünschen -0-0
+prodat/prodávat - verkaufen -0-0
+drahı/draze - teuer -0-0
+prodavaèka - die Verkäuferin -0-0
+marka - die Mark -0-0
+koruna - die Krone -0-0
+haléø - der Heller -0-0
+velikost - die Größe -0-0
+nakoupit/nakupovat - einkaufen -0-0
+jinak - sonst -0-0
+ménì - weniger -0-0
+mezi - zwischer -0-0
+lacinı/lacinì - billig -0-0
+cenovì vıhodnı/levnı - preiswert -0-0
+prádlo - die Wäsche -0-0
+zeï - die Wand -0-0
+pod - unter -0-0
+nad, pøes - über -0-0
+idle - der Stuhl -0-0
+pøed - vor -0-0
+pohlednice/pohled - die Ausichskarte -0-0
+poèítat - rechnen -0-0
+bota - der Schuh -0-0
+skøíò - der Schrank -0-0
+regál, police - das Regal -0-0
+poloit/klást, dát - legen -0-0
+postavit, dát - stellen -0-0
+vedle - neben -0-0
+kufr - der Koffer -0-0
+za - hinter -0-0
+pøedstavit (se) - (sich) vorstellen -0-0
+pøedtím/napøed - vorher -0-0
+sekretáøka - die Sekretärin -0-0
+dlouho/dlouze - lange -0-0
+(za)vést/vodit - führen -0-0
+oblek - der Anzug -0-0
+tam (na ot. kam?) - dorthin -0-0
+zodpovìdìt - beantworten -0-0
+vyøídit/zaøídit - erledigen -0-0
+kadı/kadá/kadé - jeder/jede/jedes -0-0
+podnik/závod - der Betrieb -0-0
+ètvrt/ètvr - das Viertel -0-0
+oddìlení - die Abteilung -0-0
+hodina - die Stunde -0-0
+slunce - die Sonne -0-0
+svítit, zdát se - scheinen -0-0
+deštník - der Regenschirm -0-0
+nádherı/nádhernì - herrlich -0-0
+podzim - der Herbst -0-0
+pùl - halb -0-0
+mrznout - frieren -0-0
+tmavı - dunkel -0-0
+venku - draußen -0-0
+jaro - der Frühling -0-0
+mít schùzku/bıt smluvenı - verabredet sein -0-0
+milı - nett -0-0
+mladı - jung -0-0
+váš - euer -0-0
+za, okolo - um -0-0
+bez - ohne -0-0
+recepèní - der Empfangschef -0-0
+roh - die Ecke -0-0
+pak/potom - denn -0-0
+pozornı - aufmerksam -0-0
+zaslouit si - verdienen -0-0
+opratrnı - vorsichtig -0-0
+poštovní známka - die Briefmarke -13-0
+viset/povìsit - hängen -12-0
+doplnit/doplòovat, dodat - ergänzen -12-0
