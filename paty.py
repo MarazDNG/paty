@@ -10,6 +10,9 @@ from Processed_file_data import (Processed_line,
                                  Processed_file_data,)
 from random import shuffle
 
+OPTION = 0
+
+
 root = tkinter.Tk()
 root.geometry('700x350')
 
@@ -131,6 +134,7 @@ def add_connection(left, right):
     merge_connection(new_connection)
 
 
+
 def merge_connection(connection):
     """Remove any similiar connections in connection_list
     and append connection in argument.
@@ -200,15 +204,19 @@ def place_buttons():
 
 def check_answers():
     global data
+
     for i in range(BUTTON_COUNT):
         if not is_correct(i):
             red_lines.append(
                 connect_buttons(buttons[0][i], buttons[1][i], 'red'))
-            vocab[i].streak = 0
+            if OPTION == 0:
+                vocab[i].streak = 0
         else:
-            vocab[i].streak += 1
-    data.update_streaks_in_chunk(vocab)
-    data.update_chunk()
+            if OPTION == 0:
+                vocab[i].streak += 1
+    if OPTION == 0:
+        data.update_streaks_in_chunk(vocab)
+        data.update_chunk()
 
 
 def is_correct(index):
@@ -225,8 +233,10 @@ def is_correct(index):
 def load_vocab():
     global vocab
     # print(len(data.chunk_words_list))
-    vocab = data.select_from_chunk_words(BUTTON_COUNT)
-
+    if OPTION == 0:
+        vocab = data.select_from_chunk_words(BUTTON_COUNT)
+    elif OPTION == 1:
+        vocab = data.select_from_all_words(BUTTON_COUNT)
 
 def submit():
     global checked_flag
@@ -236,9 +246,9 @@ def submit():
         checked_flag = 1
     else:
         remove_red_lines()
-        remove_connections()
         load_vocab()
         fill_buttons()
+        remove_connections()
         place_buttons()
         submit_btn['text'] = 'check'
         checked_flag = 0
@@ -254,6 +264,7 @@ create_buttons()
 load_vocab()
 fill_buttons()
 place_buttons()
+
 
 root.mainloop()
 

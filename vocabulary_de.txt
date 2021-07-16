@@ -1,7 +1,7 @@
 dosáhnout - erreichen-0-1
 dav/vøava - das Getümmel-14-1
 hádat/hloubat -  rätseln-9-1
-konèit/pøestat - aufhören-10-1
+konèit/pøestat - aufhören-0-1
 kousat - kauen-11-1
 vydìsit se/polekat se - erschrecken-11-1
 ebrat - betteln-5-1
@@ -11,41 +11,41 @@ zrovna/právì - ausgerechnet-0-1
 zrak/pohled - der Blick-8-1
 odvrátit - abwenden-0-1
 odjet - wegfahren-0-1
-mrzutı - mürrisch-8-1
+mrzutı - mürrisch-0-1
 drnèet/rachotit - rattern-0-1
-písmeno - der Buchstabe-7-1
-oznaèit - bezeichnen-12-1
-díra/otvor - das Loch-10-1
-pohnout - bewegen-10-1
-pozítøí - übermorgen-13-1
-prázdnı - leer-8-1
-lichotit - schmeicheln-7-1
+písmeno - der Buchstabe-0-1
+oznaèit - bezeichnen-0-1
+díra/otvor - das Loch-0-1
+pohnout - bewegen-0-1
+pozítøí - übermorgen-0-1
+prázdnı - leer-0-1
+lichotit - schmeicheln-0-1
 cvièebnice - Übungsheft-5-1
 rodná zemì/vlast - das Heimatland-8-1
-mazanı/chytrı - schlau-8-1
+mazanı/chytrı - schlau-1-1
 lístek/cedule - der Zettel-10-1
-svìøit - anvertrauen-3-1
+svìøit - anvertrauen-0-1
 asnout/divit se - staunen-7-1
 pamì - die Erinnerung-8-1
-pochodovat - marschieren-4-1
-nechat si - behalten-2-1
-snait se - bemühen-10-1
-šouchnout - stupsen-5-1
+pochodovat - marschieren-0-1
+nechat si - behalten-0-1
+snait se - bemühen-0-1
+šouchnout - stupsen-0-1
 zrzavı - rothaarig-9-1
 oslòující - blenden-2-1
 zkušenı - erfahren-5-1
 Na zdraví! - Gesundheit!-7-1
-opak/protiklad - das Gegenteil-2-1
-zarazit se - stutzen-3-1
+opak/protiklad - das Gegenteil-0-1
+zarazit se - stutzen-1-1
 soused - der Nachbar-3-1
 igelitovı sáèek - die Plastiktüte-0-1
 douèování - die Nachhilfestunde-0-1
 hloupı - dumm/blöd-2-1
 (za)znít - tönen-2-1
 nìnı - zärtlich-1-1
-øešení - die Lösung-1-1
+øešení - die Lösung-0-1
 podepøít, podporovat - unterstützen-0-1
-pøivléci/dovléci - anschleppen-2-1
+pøivléci/dovléci - anschleppen-0-1
 odloit - aufschieben-0-1
 vztek/zlost - die Wut-1-1
 záloha - das Pfandgeld-0-0

@@ -10,7 +10,7 @@ class Vocabulary_file_structure():
 
 
 SPLIT_CHARACTER = '-'
-STREAK_LIMIT = 12
+STREAK_LIMIT = 15
 CHUNK_RANGE = 50
 
 
@@ -32,6 +32,7 @@ class Processed_file_data():
         if len(file_lines[-1]) == 0:
             del file_lines[-1]
         self.file_lines = file_lines.copy()
+        self.all_words_list = []
         self.practice_words_list = []
         self.chunk_words_list = []
         self.done_words_list = []
@@ -39,6 +40,7 @@ class Processed_file_data():
 
         for line in file_lines:
             temp = Processed_line(line)
+            self.all_words_list.append(temp)
             if temp.in_chunk:
                 self.chunk_words_list.append(temp)
             elif temp.streak >= STREAK_LIMIT:
@@ -51,6 +53,9 @@ class Processed_file_data():
 
     def select_from_chunk_words(self, word_number):
         return sample(self.chunk_words_list, word_number)
+
+    def select_from_all_words(self, word_number):
+        return sample(self.all_words_list, word_number)
 
     def update_streaks_in_chunk(self, words_to_merge):
         """Takes Processed_line list."""
@@ -79,13 +84,13 @@ class Processed_file_data():
             self.practice_words_list.remove(word)
 
     def save_data(self):
-        with open('next.txt', 'w') as f:
+        with open('next.txt', 'w', encoding=Unicode) as f:
             for i in range(len(self.chunk_words_list)):
                 f.writelines([
                         self.chunk_words_list[i].left, '-',
                         self.chunk_words_list[i].right, '-',
                         str(self.chunk_words_list[i].streak), '-',
-                        str(self.chunk_words_list[i].in_chunk), '\n'])
+                        '1', '\n'])
             for i in range(len(self.practice_words_list)):
                 f.writelines([
                         self.practice_words_list[i].left, '-',
@@ -97,7 +102,7 @@ class Processed_file_data():
                         self.done_words_list[i].left, '-',
                         self.done_words_list[i].right, '-',
                         str(self.done_words_list[i].streak), '-',
-                        str(self.done_words_list[i].in_chunk), '\n'])
+                        '0', '\n'])
         os.rename('vocabulary_de.txt', 'backup.txt')
         os.rename('next.txt', 'vocabulary_de.txt')
         os.rename('backup.txt', 'next.txt')
