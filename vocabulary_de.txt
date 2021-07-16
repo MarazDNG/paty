@@ -1,141 +1,141 @@
-dosáhnout - erreichen-0-1
-dav/vøava - das Getümmel-14-1
-hádat/hloubat -  rätseln-9-1
-konèit/pøestat - aufhören-0-1
+dosÃ¡hnout - erreichen-0-1
+dav/vÅ™ava - das GetÃ¼mmel-14-1
+hÃ¡dat/hloubat -  rÃ¤tseln-9-1
+konÄit/pÅ™estat - aufhÃ¶ren-0-1
 kousat - kauen-11-1
-vydìsit se/polekat se - erschrecken-11-1
-ebrat - betteln-5-1
+vydÄ›sit se/polekat se - erschrecken-11-1
+Å¾ebrat - betteln-5-1
 zabalit - einpacken-7-1
 palec (na ruce) - die Daumen-10-1
-zrovna/právì - ausgerechnet-0-1
+zrovna/prÃ¡vÄ› - ausgerechnet-0-1
 zrak/pohled - der Blick-8-1
-odvrátit - abwenden-0-1
+odvrÃ¡tit - abwenden-0-1
 odjet - wegfahren-0-1
-mrzutı - mürrisch-0-1
-drnèet/rachotit - rattern-0-1
-písmeno - der Buchstabe-0-1
-oznaèit - bezeichnen-0-1
-díra/otvor - das Loch-0-1
+mrzutÃ½ - mÃ¼rrisch-0-1
+drnÄet/rachotit - rattern-0-1
+pÃ­smeno - der Buchstabe-0-1
+oznaÄit - bezeichnen-0-1
+dÃ­ra/otvor - das Loch-0-1
 pohnout - bewegen-0-1
-pozítøí - übermorgen-0-1
-prázdnı - leer-0-1
+pozÃ­tÅ™Ã­ - Ã¼bermorgen-0-1
+prÃ¡zdnÃ½ - leer-0-1
 lichotit - schmeicheln-0-1
-cvièebnice - Übungsheft-5-1
-rodná zemì/vlast - das Heimatland-8-1
-mazanı/chytrı - schlau-1-1
-lístek/cedule - der Zettel-10-1
-svìøit - anvertrauen-0-1
-asnout/divit se - staunen-7-1
-pamì - die Erinnerung-8-1
+cviÄebnice - Ãœbungsheft-5-1
+rodnÃ¡ zemÄ›/vlast - das Heimatland-8-1
+mazanÃ½/chytrÃ½ - schlau-1-1
+lÃ­stek/cedule - der Zettel-10-1
+svÄ›Å™it - anvertrauen-0-1
+Å¾asnout/divit se - staunen-7-1
+pamÄ›Å¥ - die Erinnerung-8-1
 pochodovat - marschieren-0-1
 nechat si - behalten-0-1
-snait se - bemühen-0-1
-šouchnout - stupsen-0-1
-zrzavı - rothaarig-9-1
-oslòující - blenden-2-1
-zkušenı - erfahren-5-1
-Na zdraví! - Gesundheit!-7-1
+snaÅ¾it se - bemÃ¼hen-0-1
+Å¡Å¥ouchnout - stupsen-0-1
+zrzavÃ½ - rothaarig-9-1
+oslÅˆujÃ­cÃ­ - blenden-2-1
+zkuÅ¡enÃ½ - erfahren-5-1
+Na zdravÃ­! - Gesundheit!-7-1
 opak/protiklad - das Gegenteil-0-1
 zarazit se - stutzen-1-1
 soused - der Nachbar-3-1
-igelitovı sáèek - die Plastiktüte-0-1
-douèování - die Nachhilfestunde-0-1
-hloupı - dumm/blöd-2-1
-(za)znít - tönen-2-1
-nìnı - zärtlich-1-1
-øešení - die Lösung-0-1
-podepøít, podporovat - unterstützen-0-1
-pøivléci/dovléci - anschleppen-0-1
-odloit - aufschieben-0-1
+igelitovÃ½ sÃ¡Äek - die PlastiktÃ¼te-0-1
+douÄovÃ¡nÃ­ - die Nachhilfestunde-0-1
+hloupÃ½ - dumm/blÃ¶d-2-1
+(za)znÃ­t - tÃ¶nen-2-1
+nÄ›Å¾nÃ½ - zÃ¤rtlich-1-1
+Å™eÅ¡enÃ­ - die LÃ¶sung-0-1
+podepÅ™Ã­t, podporovat - unterstÃ¼tzen-0-1
+pÅ™ivlÃ©ci/dovlÃ©ci - anschleppen-0-1
+odloÅ¾it - aufschieben-0-1
 vztek/zlost - die Wut-1-1
-záloha - das Pfandgeld-0-0
-skladník - der Lagerarbeiter-0-0
-pøítomnost - die Anwesenheit-0-0
-vymrštit se - schnellen-0-0
-zpùsobit/zpùsobovat - verursachen -12-0
-objednat/objednávat - bestellen -12-0
+zÃ¡loha - das Pfandgeld-0-0
+skladnÃ­k - der Lagerarbeiter-0-0
+pÅ™Ã­tomnost - die Anwesenheit-0-0
+vymrÅ¡tit se - schnellen-0-0
+zpÅ¯sobit/zpÅ¯sobovat - verursachen -12-0
+objednat/objednÃ¡vat - bestellen -12-0
 kolega - der Kollege -13-0
-poštovní známka - die Briefmarke -13-0
-viset/povìsit - hängen -12-0
-doplnit/doplòovat, dodat - ergänzen -12-0
-náramek - das Armband -12-0
-uèit se - lernen -12-0
-právì, rovnı/rovnì - gerade -12-0
-køiovatka - die Kreuzung -12-0
-povolání - der Beruf -12-0
+poÅ¡tovnÃ­ znÃ¡mka - die Briefmarke -13-0
+viset/povÄ›sit - hÃ¤ngen -12-0
+doplnit/doplÅˆovat, dodat - ergÃ¤nzen -12-0
+nÃ¡ramek - das Armband -12-0
+uÄit se - lernen -12-0
+prÃ¡vÄ›, rovnÃ½/rovnÄ› - gerade -12-0
+kÅ™iÅ¾ovatka - die Kreuzung -12-0
+povolÃ¡nÃ­ - der Beruf -12-0
 koupit si - sich kaufen -12-0
 hrad - die Burg -12-0
 fenik - der Pfeenig -12-0
-vìènost - die Ewichkeit -12-0
-brána - das Tor -12-0
-podívej (se)! - seih mal! -12-0
-pøíjemnı/pohodlnı/útulnı - gemütlich -12-0
-chudı (na)/chudì - arm (an 3.p.) -12-0
-vybrat (si)/ vybírat (si)/vyhledat - (sich) aus/suchen -12-0
-obávat se - befürchten -12-0
-pøi tom - dabei -12-0
-samotnı/sám - allein -12-0
+vÄ›Änost - die Ewichkeit -12-0
+brÃ¡na - das Tor -12-0
+podÃ­vej (se)! - seih mal! -12-0
+pÅ™Ã­jemnÃ½/pohodlnÃ½/ÃºtulnÃ½ - gemÃ¼tlich -12-0
+chudÃ½ (na)/chudÄ› - arm (an 3.p.) -12-0
+vybrat (si)/ vybÃ­rat (si)/vyhledat - (sich) aus/suchen -12-0
+obÃ¡vat se - befÃ¼rchten -12-0
+pÅ™i tom - dabei -12-0
+samotnÃ½/sÃ¡m - allein -12-0
 posadit se/sednout si - (sich) setzen -12-0
-toti - nämlich -12-0
+totiÅ¾ - nÃ¤mlich -12-0
 zaplatit - bezahlen -12-0
 zkusit - versuchen -12-0
-pøíjemnı/pøíjemnì - angenehm -12-0
-kyselé zelí - das Sauerkraut -12-0
-seznámit (s nìkım) - bekannt machen -12-0
+pÅ™Ã­jemnÃ½/pÅ™Ã­jemnÄ› - angenehm -12-0
+kyselÃ© zelÃ­ - das Sauerkraut -12-0
+seznÃ¡mit (s nÄ›kÃ½m) - bekannt machen -12-0
 do, po, podle - nach -12-0
-uèitel - der Lehrer -12-0
-zakázanı - verboten -12-0
-moci/smìt - können -12-0
+uÄitel - der Lehrer -12-0
+zakÃ¡zanÃ½ - verboten -12-0
+moci/smÄ›t - kÃ¶nnen -12-0
 okno - das Fenster -12-0
-Tìší mì. - Sehr angenehm. -12-0
+TÄ›Å¡Ã­ mÄ›. - Sehr angenehm. -12-0
 proti - gegen -12-0
 nic - nichts -12-0
-moci/smìt - dürfen -12-0
-volnı - frei -12-0
-snídanì - das Frühstück -12-0
-prodejní pult - der Landentisch -12-0
+moci/smÄ›t - dÃ¼rfen -12-0
+volnÃ½ - frei -12-0
+snÃ­danÄ› - das FrÃ¼hstÃ¼ck -12-0
+prodejnÃ­ pult - der Landentisch -12-0
 jen/pouze - nur -12-0
-koneènì - endlich -12-0
+koneÄnÄ› - endlich -12-0
 vesnice - das Dorf -12-0
 koupat (se) - baden -12-0
 sice - zwar -12-0
-koho/èeho/èí - wessen -12-0
-salám - die Wurst -12-0
+koho/Äeho/ÄÃ­ - wessen -12-0
+salÃ¡m - die Wurst -12-0
 obdivovat - bewunder -12-0
-bìet/bìhat, chodit(hov.) - laufen -12-0
+bÄ›Å¾et/bÄ›hat, chodit(hov.) - laufen -12-0
 dokonce - sogar -12-0
-vyobrazení - das Abbild -12-0
-krerı/která/které - welcher/welche/welches -12-0
-velikost - die Größe -12-0
-vèas - rechtzeitig -12-0
-idle - der Stuhl -12-0
+vyobrazenÃ­ - das Abbild -12-0
+krerÃ½/kterÃ¡/kterÃ© - welcher/welche/welches -12-0
+velikost - die GrÃ¶ÃŸe -12-0
+vÄas - rechtzeitig -12-0
+Å¾idle - der Stuhl -12-0
 chleba - das Brot -12-0
-nádherı/nádhernì - herrlich -12-0
-(nìkdy) jindy - (ein) andermal -12-0
-pohádka - das Märchen -12-0
-kadı/kadá/kadé - jeder/jede/jedes -12-0
+nÃ¡dherÃ½/nÃ¡dhernÄ› - herrlich -12-0
+(nÄ›kdy) jindy - (ein) andermal -12-0
+pohÃ¡dka - das MÃ¤rchen -12-0
+kaÅ¾dÃ½/kaÅ¾dÃ¡/kaÅ¾dÃ© - jeder/jede/jedes -12-0
 nikdo - niemand -12-0
-ohroení - die Bedrohung -12-0
+ohroÅ¾enÃ­ - die Bedrohung -12-0
 za - hinter -12-0
-takovı - solcher -12-0
+takovÃ½ - solcher -12-0
 bez - ohne -12-0
 kufr - der Koffer -12-0
 hodit se - sich eignen -12-0
-šaty - das Kleid -12-0
-(po)radit, hádat - raten -12-0
+Å¡aty - das Kleid -12-0
+(po)radit, hÃ¡dat - raten -12-0
 pak/potom - denn -12-0
-poloit/klást, dát - legen -12-0
-klobása - die Bochwurst -12-0
+poloÅ¾it/klÃ¡st, dÃ¡t - legen -12-0
+klobÃ¡sa - die Bochwurst -12-0
 chyba - der Fehler -12-0
-kus/kousek - das Stück -12-0
+kus/kousek - das StÃ¼ck -12-0
 pod - unter -12-0
-vlastnì - eigentlich -12-0
+vlastnÄ› - eigentlich -12-0
 teta - die Tante -12-0
-regál, police - das Regal -12-0
+regÃ¡l, police - das Regal -12-0
 k tomu - dazu -12-0
 dlouho/dlouze - lange -12-0
 slunce - die Sonne -12-0
-sır - der Käse -12-0
+sÃ½r - der KÃ¤se -12-0
 posadit se - sich setzen -12-0
 obsahovat/zahrnovat - enthalten -12-0
 idtamtud - von dort aus -12-0
@@ -143,594 +143,594 @@ nakoupit/nakupovat - einkaufen -12-0
 bota - der Schuh -12-0
 tak/tedy - also -12-0
 dost - genug -12-0
-pouít - benutzen -12-0
-èekat (na) - warten (auf 4.p) -12-0
+pouÅ¾Ã­t - benutzen -12-0
+Äekat (na) - warten (auf 4.p) -12-0
 oblek - der Anzug -12-0
 pomsta - die Rache -12-0
-knedlík - der Knödel -12-0
-rovnì/pøímo - geradeaus -12-0
-alespoò - minderstens -12-0
-obránci - der Verteidiger -12-0
-zodpovìdìt - beantworten -12-0
-doprovodit/(do)provázet - begleiten -12-0
+knedlÃ­k - der KnÃ¶del -12-0
+rovnÄ›/pÅ™Ã­mo - geradeaus -12-0
+alespoÅˆ - minderstens -12-0
+obrÃ¡nci - der Verteidiger -12-0
+zodpovÄ›dÄ›t - beantworten -12-0
+doprovodit/(do)provÃ¡zet - begleiten -12-0
 snad/asi - wohl -12-0
 kdysi/jednou - einst -12-0
-ménì - weniger -12-0
-zaslouit si - verdienen -12-0
-jistı/jistì, urèitı/urèitì - bestimmat -12-0
-nerozvánı/neuváenı - umbedacht -12-0
-asi/pøiblinì - etwa -12-0
-mladı - jung -12-0
-prohlídka - die Besichtigung -12-0
-prodat/prodávat - verkaufen -12-0
-nad, pøes - über -12-0
-prohlédnout si - besichtigen -12-0
-drahı/draze - teuer -12-0
-èistı/èistì - sauber -12-0
-komár - die Mücke -12-0
-pravidelnı/pravidelnì - regelmäßig -12-0
-smìt - dürfen -12-0
+mÃ©nÄ› - weniger -12-0
+zaslouÅ¾it si - verdienen -12-0
+jistÃ½/jistÄ›, urÄitÃ½/urÄitÄ› - bestimmat -12-0
+nerozvÃ¡Å¾nÃ½/neuvÃ¡Å¾enÃ½ - umbedacht -12-0
+asi/pÅ™ibliÅ¾nÄ› - etwa -12-0
+mladÃ½ - jung -12-0
+prohlÃ­dka - die Besichtigung -12-0
+prodat/prodÃ¡vat - verkaufen -12-0
+nad, pÅ™es - Ã¼ber -12-0
+prohlÃ©dnout si - besichtigen -12-0
+drahÃ½/draze - teuer -12-0
+ÄistÃ½/ÄistÄ› - sauber -12-0
+komÃ¡r - die MÃ¼cke -12-0
+pravidelnÃ½/pravidelnÄ› - regelmÃ¤ÃŸig -12-0
+smÄ›t - dÃ¼rfen -12-0
 byt - die Wohnung -12-0
 dojem - der Eindruck -12-0
 chata/chalupa - das Wochenendhaus -12-0
-patro - das Geschoß -12-0
-venku - draußen -12-0
-pomník - das Denkmal -12-0
+patro - das GeschoÃŸ -12-0
+venku - drauÃŸen -12-0
+pomnÃ­k - das Denkmal -12-0
 z toho - davon -12-0
 host - der Gast -12-0
-vyprávìt/vypravovat - erzählen -12-0
-váš - euer -12-0
-tmavı - dunkel -12-0
-bezradnı/bezradnì - ratlos -12-0
-pomáhat/pomoci (pøi, s) - helfen (bei, mit) -12-0
-pro dnešek dost - für heute Schluß -12-0
-jaro - der Frühling -12-0
-vìdìt - wissen -12-0
-èasto/èastı - häufig -12-0
-mít povinnost - sollen -12-0
-radost/potìšení - die Freude -12-0
-cestou/na cestì - unterwegs -12-0
-prázdnota - die Leere -12-0
-ne - als -12-0
-oba/obì - beide -12-0
-dávat - geben -12-0
+vyprÃ¡vÄ›t/vypravovat - erzÃ¤hlen -12-0
+vÃ¡Å¡ - euer -12-0
+tmavÃ½ - dunkel -12-0
+bezradnÃ½/bezradnÄ› - ratlos -12-0
+pomÃ¡hat/pomoci (pÅ™i, s) - helfen (bei, mit) -12-0
+pro dneÅ¡ek dost - fÃ¼r heute SchluÃŸ -12-0
+jaro - der FrÃ¼hling -12-0
+vÄ›dÄ›t - wissen -12-0
+Äasto/ÄastÃ½ - hÃ¤ufig -12-0
+mÃ­t povinnost - sollen -12-0
+radost/potÄ›Å¡enÃ­ - die Freude -12-0
+cestou/na cestÄ› - unterwegs -12-0
+prÃ¡zdnota - die Leere -12-0
+neÅ¾ - als -12-0
+oba/obÄ› - beide -12-0
+dÃ¡vat - geben -12-0
 mrznout - frieren -12-0
-èestnı - ehrenhaft -12-0
+ÄestnÃ½ - ehrenhaft -12-0
 kraj/krajina - die Gegend -12-0
 rozhodnout (se)/rozhodovat (se) - (sich) entscheiden -12-0
-bohuel - leider -12-0
+bohuÅ¾el - leider -12-0
 za, okolo - um -12-0
 podzim - der Herbst -12-0
 svoboda - die Freiheit -12-0
-ukradenı - gestohlenen -12-0
-víno - der Wein -12-0
-pøát (si) - (sich) wünschen -12-0
-zajetí - die Gefangenschaft -12-0
-podìkovat - danken -12-0
+ukradenÃ½ - gestohlenen -12-0
+vÃ­no - der Wein -12-0
+pÅ™Ã¡t (si) - (sich) wÃ¼nschen -12-0
+zajetÃ­ - die Gefangenschaft -12-0
+podÄ›kovat - danken -12-0
 strach - die Angst -12-0
-zeï - die Wand -12-0
+zeÄ - die Wand -12-0
 jinak - sonst -12-0
 jet/jezdit - fahren -12-0
-napøed - zuerst -12-0
-asi/kolem - ungefähr -12-0
-hl. mìsto - die Haupstadt -12-0
-svítit, zdát se - scheinen -12-0
-cenovì vıhodnı/levnı - preiswert -12-0
-rád - froh -12-0
-e - daß -12-0
-magickı - magisch -12-0
-poèítat - rechnen -12-0
-úskoènı/záludnı - hinterlistig -12-0
-nabídnout - anbieten -12-0
-snad/tøeba/moná - vielleicht -12-0
+napÅ™ed - zuerst -12-0
+asi/kolem - ungefÃ¤hr -12-0
+hl. mÄ›sto - die Haupstadt -12-0
+svÃ­tit, zdÃ¡t se - scheinen -12-0
+cenovÄ› vÃ½hodnÃ½/levnÃ½ - preiswert -12-0
+rÃ¡d - froh -12-0
+Å¾e - daÃŸ -12-0
+magickÃ½ - magisch -12-0
+poÄÃ­tat - rechnen -12-0
+ÃºskoÄnÃ½/zÃ¡ludnÃ½ - hinterlistig -12-0
+nabÃ­dnout - anbieten -12-0
+snad/tÅ™eba/moÅ¾nÃ¡ - vielleicht -12-0
 od (doby) - seit -12-0
-opratrnı - vorsichtig -12-0
-zvìdavı - neugierig -12-0
-darovat/dát - schenken -12-0
-málo - wenig -12-0
-tak, e/tím, e - indem -12-0
-podnik/závod - der Betrieb -12-0
-recepèní - der Empfangschef -12-0
-obchodní dùm - das Warenhaus -12-0
-Ještì nìco? - Sonst noch etwas? -12-0
+opratrnÃ½ - vorsichtig -12-0
+zvÄ›davÃ½ - neugierig -12-0
+darovat/dÃ¡t - schenken -12-0
+mÃ¡lo - wenig -12-0
+tak, Å¾e/tÃ­m, Å¾e - indem -12-0
+podnik/zÃ¡vod - der Betrieb -12-0
+recepÄnÃ­ - der Empfangschef -12-0
+obchodnÃ­ dÅ¯m - das Warenhaus -12-0
+JeÅ¡tÄ› nÄ›co? - Sonst noch etwas? -12-0
 kostel - die Kirche -12-0
-ve dne/bìhem dne - am Tag -12-0
-skøíò - der Schrank -12-0
-mıt (se, si), prát - (sich) waschen -12-0
+ve dne/bÄ›hem dne - am Tag -12-0
+skÅ™Ã­Åˆ - der Schrank -12-0
+mÃ½t (se, si), prÃ¡t - (sich) waschen -12-0
 chlapec/choch/kluk - der Junge -12-0
-most - die Brücke -12-0
-enatı/vdaná - verhairatet -12-0
+most - die BrÃ¼cke -12-0
+Å¾enatÃ½/vdanÃ¡ - verhairatet -12-0
 (z)kazit (se) - verderben -12-0
-doporuèit/doporuèovat - empfehlen -12-0
+doporuÄit/doporuÄovat - empfehlen -12-0
 pohlednice/pohled - die Ausichskarte -12-0
-mít schùzku/bıt smluvenı - verabredet sein -12-0
-vyhlídka - die Aussicht -12-0
-pìstovat/provozovat - treiben -12-0
-døívìjší/bıvalı - ehemalig -12-0
-spoleènost - die Gesselschaft -12-0
-strıc - der Onkel -12-0
-haléø - der Heller -12-0
+mÃ­t schÅ¯zku/bÃ½t smluvenÃ½ - verabredet sein -12-0
+vyhlÃ­dka - die Aussicht -12-0
+pÄ›stovat/provozovat - treiben -12-0
+dÅ™Ã­vÄ›jÅ¡Ã­/bÃ½valÃ½ - ehemalig -12-0
+spoleÄnost - die Gesselschaft -12-0
+strÃ½c - der Onkel -12-0
+halÃ©Å™ - der Heller -12-0
 roh - die Ecke -12-0
 dosud - bisher -12-0
-milı - nett -12-0
+milÃ½ - nett -12-0
 ihned - gleich -12-0
-(vy)èistit, uklízet - sauber machen -12-0
-šunka - der Schinken -12-0
+(vy)Äistit, uklÃ­zet - sauber machen -12-0
+Å¡unka - der Schinken -12-0
 maso - das Fleisch -12-0
 opravit/opravovat - reparieren -12-0
-prohlédnout si/prohlíet si - (sich) au/sehen -12-0
-oroèit (se)/otáèet (se) - (sich) drehen -12-0
+prohlÃ©dnout si/prohlÃ­Å¾et si - (sich) au/sehen -12-0
+oroÄit (se)/otÃ¡Äet (se) - (sich) drehen -12-0
 tam (na ot. kam?) - dorthin -12-0
 mezi - zwischer -12-0
 zastavit/zastavovat - an/halten -12-0
-chybnı/chybnì - falsch -12-0
-Jsme velmi rád. - Ich bin sehr froh. -12-0
-chtít - wollen -12-0
-jít spát/jít do postele - zu Bett gehen -12-0
-strávit (èas) - verbringen -12-0
-pøed - vor -12-0
-nazvat/nazıvat, jmenovat - nennen -12-0
-pospíšit si - sich beeilen -12-0
-èesat (se) - (sich) kämmen -12-0
+chybnÃ½/chybnÄ› - falsch -12-0
+Jsme velmi rÃ¡d. - Ich bin sehr froh. -12-0
+chtÃ­t - wollen -12-0
+jÃ­t spÃ¡t/jÃ­t do postele - zu Bett gehen -12-0
+strÃ¡vit (Äas) - verbringen -12-0
+pÅ™ed - vor -12-0
+nazvat/nazÃ½vat, jmenovat - nennen -12-0
+pospÃ­Å¡it si - sich beeilen -12-0
+Äesat (se) - (sich) kÃ¤mmen -12-0
 kroj - die Tracht -12-0
-koneènì - schließlich -12-0
-jít dál - weiter/gehen -12-0
+koneÄnÄ› - schlieÃŸlich -12-0
+jÃ­t dÃ¡l - weiter/gehen -12-0
 vzhled - die Gestalt -12-0
-lhát - lügen -12-0
-postavit, dát - stellen -12-0
-(za)vést/vodit - führen -12-0
-pilnı/pilnì - fleißig -12-0
+lhÃ¡t - lÃ¼gen -12-0
+postavit, dÃ¡t - stellen -12-0
+(za)vÃ©st/vodit - fÃ¼hren -12-0
+pilnÃ½/pilnÄ› - fleiÃŸig -12-0
 koho - wen -12-0
-nìkolik/mnozí - mehrere -12-0
-zmìnit/promìnit - verwandeln -12-0
-zelenina - das Gemüse -12-0
-kouzelnictví/èáry - die Zauberei -12-0
+nÄ›kolik/mnozÃ­ - mehrere -12-0
+zmÄ›nit/promÄ›nit - verwandeln -12-0
+zelenina - das GemÃ¼se -12-0
+kouzelnictvÃ­/ÄÃ¡ry - die Zauberei -12-0
 koruna - die Krone -14-0
-sedìt - sitzen -13-0
-stát se/pøihodit se - passieren -12-0
-èaj - der Tee -12-0
-prodavaèka - die Verkäuferin -12-0
+sedÄ›t - sitzen -13-0
+stÃ¡t se/pÅ™ihodit se - passieren -12-0
+Äaj - der Tee -12-0
+prodavaÄka - die VerkÃ¤uferin -12-0
 jen/pouze - nur -12-0
-zvítìzit/porazit - besiegen -12-0
-rozbitı - kaputt -12-0
-pozornı - aufmerksam -12-0
+zvÃ­tÄ›zit/porazit - besiegen -12-0
+rozbitÃ½ - kaputt -12-0
+pozornÃ½ - aufmerksam -12-0
 les - der Wald -12-0
-ètvrt/ètvr - das Viertel -12-0
-vıznamnı/vıznamnì - bedeutend -12-0
-trochu - ein bißchen -12-0
+Ätvrt/ÄtvrÅ¥ - das Viertel -12-0
+vÃ½znamnÃ½/vÃ½znamnÄ› - bedeutend -12-0
+trochu - ein biÃŸchen -12-0
 hodina - die Stunde -12-0
-øetízek/náhrdelník - die Kette -12-0
-smrtelnı - sterblich -12-0
-zdravı/zdravì - gesund -12-0
-pøedstavit (se) - (sich) vorstellen -12-0
-koláè - der Kuchen -12-0
+Å™etÃ­zek/nÃ¡hrdelnÃ­k - die Kette -12-0
+smrtelnÃ½ - sterblich -12-0
+zdravÃ½/zdravÄ› - gesund -12-0
+pÅ™edstavit (se) - (sich) vorstellen -12-0
+kolÃ¡Ä - der Kuchen -12-0
 z - aus -12-0
-sekretáøka - die Sekretärin -12-0
+sekretÃ¡Å™ka - die SekretÃ¤rin -12-0
 proto - deshalb -12-0
-dárek - das Geschenk -12-0
-zbraò - die Waffe -12-0
-èlun/loïka - der Kahn -12-0
+dÃ¡rek - das Geschenk -12-0
+zbraÅˆ - die Waffe -12-0
+Älun/loÄka - der Kahn -12-0
 jako - als -12-0
 tvrdit - behaupten -12-0
 napadnout - ein/fallen -12-0
-pùl - halb -12-0
-lacinı/lacinì - billig -12-0
+pÅ¯l - halb -12-0
+lacinÃ½/lacinÄ› - billig -12-0
 sem - hierher -12-0
-pøesnı/pøesnì - genau -12-0
-káva - der Kaffee -12-0
-houska - das Brötchen -12-0
-pøedtím/napøed - vorher -12-0
-deštník - der Regenschirm -12-0
-trpìlivost - die Geduld-12-0
-prádlo - die Wäsche -12-0
-oddìlení - die Abteilung -12-0
-jih - der Süden -12-0
-dúleitı/dùleitì - wichtig -12-0
-dávat pozor/dohlíet - aufpassen-12-0
-pot - der Schweiß-12-0
-úkol - die Aufgabe-12-0
-mít rád/mít chu - mögen -12-0
+pÅ™esnÃ½/pÅ™esnÄ› - genau -12-0
+kÃ¡va - der Kaffee -12-0
+houska - das BrÃ¶tchen -12-0
+pÅ™edtÃ­m/napÅ™ed - vorher -12-0
+deÅ¡tnÃ­k - der Regenschirm -12-0
+trpÄ›livost - die Geduld-12-0
+prÃ¡dlo - die WÃ¤sche -12-0
+oddÄ›lenÃ­ - die Abteilung -12-0
+jih - der SÃ¼den -12-0
+dÃºleÅ¾itÃ½/dÅ¯leÅ¾itÄ› - wichtig -12-0
+dÃ¡vat pozor/dohlÃ­Å¾et - aufpassen-12-0
+pot - der SchweiÃŸ-12-0
+Ãºkol - die Aufgabe-12-0
+mÃ­t rÃ¡d/mÃ­t chuÅ¥ - mÃ¶gen -12-0
 vedle - neben -12-0
-poèítat - zählen -12-0
-øidièák - der Führensehein -12-0
-skála - der Felsen-12-0
-nìkteøí, nìkolik - einige -12-0
-popøemıšlet - überlegen-12-0
-namáhat se - anstrengen-12-0
+poÄÃ­tat - zÃ¤hlen -12-0
+Å™idiÄÃ¡k - der FÃ¼hrensehein -12-0
+skÃ¡la - der Felsen-12-0
+nÄ›kteÅ™Ã­, nÄ›kolik - einige -12-0
+popÅ™emÃ½Å¡let - Ã¼berlegen-12-0
+namÃ¡hat se - anstrengen-12-0
 pohyb - Bewegung-12-0
-následující - folgend-12-0
-slíbit - versprechen-12-0
-náklad - die Ladung-12-0
+nÃ¡sledujÃ­cÃ­ - folgend-12-0
+slÃ­bit - versprechen-12-0
+nÃ¡klad - die Ladung-12-0
 konat se - stattfinden-12-0
-jeden/jedinı - einzig-12-0
+jeden/jedinÃ½ - einzig-12-0
 potit se - schwitzen-12-0
 marka - die Mark -12-0
-ukázat/ukazovat - zaigen -12-0
-vyøídit/zaøídit - erledigen -12-0
+ukÃ¡zat/ukazovat - zaigen -12-0
+vyÅ™Ã­dit/zaÅ™Ã­dit - erledigen -12-0
 dorazit/dostavit se - eintreffen-12-0
-pùvabnı/pùvabnì - reizvoll -12-0
-foukat/vát - wehen-12-0
-pøístav - der Hafen-12-0
-zøejmì, asi - womöglich-12-0
+pÅ¯vabnÃ½/pÅ¯vabnÄ› - reizvoll -12-0
+foukat/vÃ¡t - wehen-12-0
+pÅ™Ã­stav - der Hafen-12-0
+zÅ™ejmÄ›, asi - womÃ¶glich-12-0
 ztratit - verlieren-12-0
-následovat - nachgehen-12-0
-naléhavı - dringend-12-0
-odpoèívat, nechat v klidu - ausruhen-12-0
-poehnat/ehnat - segnen-12-0
+nÃ¡sledovat - nachgehen-12-0
+nalÃ©havÃ½ - dringend-12-0
+odpoÄÃ­vat, nechat v klidu - ausruhen-12-0
+poÅ¾ehnat/Å¾ehnat - segnen-12-0
 dosahovat - reichen-12-0
-nejvyšší - höchsten-12-0
-vyvıšenı - erhaben-12-0
-stáhnout - herunterladen-12-0
-zákazník - die Kunde-12-0
-Ale a dosud je to stále.. - Doch bis jetzt ist noch..-12-0
-naproti - drüben-12-0
-nutnı - nötig-12-0
-proto, z toho dùvodu - deswegen-12-0
-rychlı - geschwind-12-0
-obchod/krám - der Laden-12-0
+nejvyÅ¡Å¡Ã­ - hÃ¶chsten-12-0
+vyvÃ½Å¡enÃ½ - erhaben-12-0
+stÃ¡hnout - herunterladen-12-0
+zÃ¡kaznÃ­k - die Kunde-12-0
+Ale aÅ¾ dosud je to stÃ¡le.. - Doch bis jetzt ist noch..-12-0
+naproti - drÃ¼ben-12-0
+nutnÃ½ - nÃ¶tig-12-0
+proto, z toho dÅ¯vodu - deswegen-12-0
+rychlÃ½ - geschwind-12-0
+obchod/krÃ¡m - der Laden-12-0
 oblast/krajina - das Gebiet-12-0
-vymyslet/vynalézt/objevit - erfinden-12-0
+vymyslet/vynalÃ©zt/objevit - erfinden-12-0
 obklopovat - umgeben-12-0
-sbírat - sammeln-12-0
-èinnost/práce - die Beschäftigung-12-0
-kùe - die Haut-12-0
-podivnı/zvláštní - seltsam-12-0
-chránit - beschützen-12-0
-stráò/svah/úboèí - der Abhang-12-0
-peèlivı/svìdomitı - sorgfältig-12-0
+sbÃ­rat - sammeln-12-0
+Äinnost/prÃ¡ce - die BeschÃ¤ftigung-12-0
+kÅ¯Å¾e - die Haut-12-0
+podivnÃ½/zvlÃ¡Å¡tnÃ­ - seltsam-12-0
+chrÃ¡nit - beschÃ¼tzen-12-0
+strÃ¡Åˆ/svah/ÃºboÄÃ­ - der Abhang-12-0
+peÄlivÃ½/svÄ›domitÃ½ - sorgfÃ¤ltig-12-0
 proto - daher-12-0
-rozhlédnout se - umsehen-12-0
-vıraz - der Ausdruck-12-0
+rozhlÃ©dnout se - umsehen-12-0
+vÃ½raz - der Ausdruck-12-0
 zkoumat/prozkoumat - erforschen-12-0
-biè - die Paitsche-12-0
-fein - jemnı-12-0
-tváø/oblièej - das Antlitz-12-0
-hluèet - lärmen-12-0
+biÄ - die Paitsche-12-0
+fein - jemnÃ½-12-0
+tvÃ¡Å™/obliÄej - das Antlitz-12-0
+hluÄet - lÃ¤rmen-12-0
 promrhat, promarnit - verschwenden-12-0
 bolet - schmerzen-12-0
 promluvit si - besprechen-12-0
-básník - der Dichter-12-0
-tuhı/pevnı - fest-12-0
-horkı - heiß-12-0
-døíve ne/pøedtím ne - ehe-12-0
-zierlich - pùvabnı-12-0
-poehnání - der Segen-12-0
-syrovı - roh-12-0
-srozumìnı - einverstanden-12-0
+bÃ¡snÃ­k - der Dichter-12-0
+tuhÃ½/pevnÃ½ - fest-12-0
+horkÃ½ - heiÃŸ-12-0
+dÅ™Ã­ve neÅ¾/pÅ™edtÃ­m neÅ¾ - ehe-12-0
+zierlich - pÅ¯vabnÃ½-12-0
+poÅ¾ehnÃ¡nÃ­ - der Segen-12-0
+syrovÃ½ - roh-12-0
+srozumÄ›nÃ½ - einverstanden-12-0
 poslat - schicken-12-0
 konev - die Kanne-12-0
-z opaèné strany - herüber-12-0
+z opaÄnÃ© strany - herÃ¼ber-12-0
 vtip - der Witz-12-0
-sdìlit/oznámit - mitteilen-12-0
-pøíkop - der Graben-12-0
-hlubokı - tief-12-0
+sdÄ›lit/oznÃ¡mit - mitteilen-12-0
+pÅ™Ã­kop - der Graben-12-0
+hlubokÃ½ - tief-12-0
 sklonit/ohnout - beugen-12-0
-náhlı/neèekanı - plötzlich-12-0
-šuplík/zásuvka - die Schublade-12-0
-køídlo - der Flügel-12-0
+nÃ¡hlÃ½/neÄekanÃ½ - plÃ¶tzlich-12-0
+Å¡uplÃ­k/zÃ¡suvka - die Schublade-12-0
+kÅ™Ã­dlo - der FlÃ¼gel-12-0
 kopyto - der Huf-12-0
-køièet/øvát - schreien-12-0
-bohatı - reich-12-0
-podlaha - der (Fuß)Boden-12-0
-Kolik je hodin? - Wie spät ist es?-12-0
+kÅ™iÄet/Å™vÃ¡t - schreien-12-0
+bohatÃ½ - reich-12-0
+podlaha - der (FuÃŸ)Boden-12-0
+Kolik je hodin? - Wie spÃ¤t ist es?-12-0
 oko - das Auge-12-0
-hrudník - die Brust-12-0
+hrudnÃ­k - die Brust-12-0
 straka - die Elster-12-0
 koberec - der Teppich-12-0
-ovladaè - der Regler-12-0
-statkáø - der Gutsherr-12-0
+ovladaÄ - der Regler-12-0
+statkÃ¡Å™ - der Gutsherr-12-0
 strop - die Decke-12-0
-cítit/pociovat - spüren-12-0
-jasnı/svìtlı - hell-12-0
-tráva - das Gras-12-0
-záda - der Rücken-12-0
-drzı - frech-12-0
+cÃ­tit/pociÅ¥ovat - spÃ¼ren-12-0
+jasnÃ½/svÄ›tlÃ½ - hell-12-0
+trÃ¡va - das Gras-12-0
+zÃ¡da - der RÃ¼cken-12-0
+drzÃ½ - frech-12-0
 tehdy - damals-12-0
-pae - der Arm-12-0
-nálada - die Laune-12-0
-rozdìlit/dìlit - teilen-12-0
-hvízdat - flöten-12-0
-udeøit/vrazit - stoßen-12-0
-ulice/ulièka - die Gasse-12-0
+paÅ¾e - der Arm-12-0
+nÃ¡lada - die Laune-12-0
+rozdÄ›lit/dÄ›lit - teilen-12-0
+hvÃ­zdat - flÃ¶ten-12-0
+udeÅ™it/vrazit - stoÃŸen-12-0
+ulice/uliÄka - die Gasse-12-0
 rostlina - die Pflanze-12-0
-kostka/krychle - der Würfel-12-0
-zadat/vloit - eingeben-12-0
-pøíst/vrnìt - schnurren-12-0
+kostka/krychle - der WÃ¼rfel-12-0
+zadat/vloÅ¾it - eingeben-12-0
+pÅ™Ã­st/vrnÄ›t - schnurren-12-0
 hora - der Berg-12-0
-rohlík - das Hörnchen-12-0
-potøebovat - brauchen-12-0
-zapnout (poèítaè..) - einschalten-12-0
-obléct - anziehen-12-0
-váza - die Vase-12-0
-køeslo - der Sessel-12-0
-láhev - die Flasche-12-0
-sedaèka/pohovka - die Couch/das Sofa-12-0
-hıbat - regen-12-0
-zobák - der Schnabel-12-0
-okolní - umliegend-12-0
-míèek - der Ball-12-0
-podaøit se - gelingen-12-0
-loveckı pes - der Jagdhund-12-0
+rohlÃ­k - das HÃ¶rnchen-12-0
+potÅ™ebovat - brauchen-12-0
+zapnout (poÄÃ­taÄ..) - einschalten-12-0
+oblÃ©ct - anziehen-12-0
+vÃ¡za - die Vase-12-0
+kÅ™eslo - der Sessel-12-0
+lÃ¡hev - die Flasche-12-0
+sedaÄka/pohovka - die Couch/das Sofa-12-0
+hÃ½bat - regen-12-0
+zobÃ¡k - der Schnabel-12-0
+okolnÃ­ - umliegend-12-0
+mÃ­Äek - der Ball-12-0
+podaÅ™it se - gelingen-12-0
+loveckÃ½ pes - der Jagdhund-12-0
 hrnek - die Tasse-12-0
 list - das Blatt-12-0
-posbírat se - aufrappeln-12-0
-štìkat - bellen-12-0
-talíø - der Teller-12-0
-natáhnout/roztáhnout - ausstrecken-12-0
+posbÃ­rat se - aufrappeln-12-0
+Å¡tÄ›kat - bellen-12-0
+talÃ­Å™ - der Teller-12-0
+natÃ¡hnout/roztÃ¡hnout - ausstrecken-12-0
 nemotora/motovidlo - die Tollpatsch-12-0
-netopır - die Fledermaus-12-0
-hvízdat (pták) - flöten-12-0
-zastavit se/navštívit - vorbeikommen-12-0
+netopÃ½r - die Fledermaus-12-0
+hvÃ­zdat (ptÃ¡k) - flÃ¶ten-12-0
+zastavit se/navÅ¡tÃ­vit - vorbeikommen-12-0
 bylina - das Kraut-12-0
-skoèit/skákat - springen-12-0
-ponoka - die Socke-12-0
-zvíøe - das Tier-12-0
+skoÄit/skÃ¡kat - springen-12-0
+ponoÅ¾ka - die Socke-12-0
+zvÃ­Å™e - das Tier-12-0
 mumlat/brumlat - brummeln-12-0
-zívat - gähnen-12-0
-máslo - die Butter-12-0
+zÃ­vat - gÃ¤hnen-12-0
+mÃ¡slo - die Butter-12-0
 majitel - der Inhaber-12-0
-podnikavı - unternehmungslustige-12-0
-odtáhnout - wegziehen-12-0
-sténat/vzdychat - ächzen-12-0
-topení - die Heizung-12-0
-mezitím - mittlerweile-12-0
-zvládnout/dokázat - hinkriegen-12-0
-roztomilı/rozkošnı - putzig-12-0
-drzı, zvìdavı - vorwitzig-12-0
+podnikavÃ½ - unternehmungslustige-12-0
+odtÃ¡hnout - wegziehen-12-0
+stÃ©nat/vzdychat - Ã¤chzen-12-0
+topenÃ­ - die Heizung-12-0
+mezitÃ­m - mittlerweile-12-0
+zvlÃ¡dnout/dokÃ¡zat - hinkriegen-12-0
+roztomilÃ½/rozkoÅ¡nÃ½ - putzig-12-0
+drzÃ½, zvÄ›davÃ½ - vorwitzig-12-0
 vypnout - ausschalten-12-0
-dráp/paøát - die Kralle-12-0
+drÃ¡p/paÅ™Ã¡t - die Kralle-12-0
 nalepit - aufkleben-12-0
-obrovskı/ohromnı - reisig-12-0
+obrovskÃ½/ohromnÃ½ - reisig-12-0
 podat - reichen-12-0
-mrkat/mourat - blinzeln-12-0
-vklouznout - schlüpfen-12-0
-køemen/oblázek - der Kieselstein-12-0
-dlaò - der Hand-12-0
-vlastní/svùj - eigen-12-0
-vyuèování - der Unterricht-12-0
-dochvilnı/vèasnı - pünktlich-12-0
+mrkat/mÅ¾ourat - blinzeln-12-0
+vklouznout - schlÃ¼pfen-12-0
+kÅ™emen/oblÃ¡zek - der Kieselstein-12-0
+dlaÅˆ - der Hand-12-0
+vlastnÃ­/svÅ¯j - eigen-12-0
+vyuÄovÃ¡nÃ­ - der Unterricht-12-0
+dochvilnÃ½/vÄasnÃ½ - pÃ¼nktlich-12-0
 rameno - die Schulter-12-0
-miska - die Schüssel-12-0
+miska - die SchÃ¼ssel-12-0
 hodit - werfen-12-0
-vonìt - duften-12-0
-hihòat se - kichern-12-0
-šarmantní/okouzlující - charmant-12-0
-rozèílení/vzrušení - die Aufregung-12-0
+vonÄ›t - duften-12-0
+hihÅˆat se - kichern-12-0
+Å¡armantnÃ­/okouzlujÃ­cÃ­ - charmant-12-0
+rozÄÃ­lenÃ­/vzruÅ¡enÃ­ - die Aufregung-12-0
 dozadu - nach hinten-12-0
-kadeø - die Locke-12-0
+kadeÅ™ - die Locke-12-0
 noviny - die Zeitung-12-0
 herec - der Schauspieler-12-0
-rozrušit/rozèílit - aufregen-12-0
+rozruÅ¡it/rozÄÃ­lit - aufregen-12-0
 mezera/skulina - der Spalt-12-0
 pohrabat/uhrabat - rechen-12-0
-pøechytøelı/pøemoudrı - neunmalklug-12-0
-chválit - loben-12-0
+pÅ™echytÅ™elÃ½/pÅ™emoudrÃ½ - neunmalklug-12-0
+chvÃ¡lit - loben-12-0
 hromada - der Stapel-12-0
-oznámit - verkünden-12-0
-celkem/celkovì vzato - insgesamt-12-0
-rùst - wachsen-12-0
+oznÃ¡mit - verkÃ¼nden-12-0
+celkem/celkovÄ› vzato - insgesamt-12-0
+rÅ¯st - wachsen-12-0
 cesta - die Bahn-12-0
-støíkat/cákat - spritzten-12-0
-štìrk - der Kies-12-0
-listovat - blättern-12-0
+stÅ™Ã­kat/cÃ¡kat - spritzten-12-0
+Å¡tÄ›rk - der Kies-12-0
+listovat - blÃ¤ttern-12-0
 hlas - die Stimme-12-0
-vıkon - die Leistung-12-0
-pøesvìdèit - überzeugen/überreden-12-0
+vÃ½kon - die Leistung-12-0
+pÅ™esvÄ›dÄit - Ã¼berzeugen/Ã¼berreden-12-0
 hladit/pohladit - streichen-12-0
-osamìlı/opuštìnı - einsam-12-0
-vìštec - der Wahrsager-12-0
+osamÄ›lÃ½/opuÅ¡tÄ›nÃ½ - einsam-12-0
+vÄ›Å¡tec - der Wahrsager-12-0
 budoucnost - die Zukunft-12-0
-ráèit vejít - hereinspazieren-12-0
-pøedpovìdìt - voraussagen-12-0
+rÃ¡Äit vejÃ­t - hereinspazieren-12-0
+pÅ™edpovÄ›dÄ›t - voraussagen-12-0
 (s)polknot - schlucken-12-0
-elva - die Schildkröte-12-0
-linie/èára - die Linie-12-0
-nadávat - schimpfen-12-0
+Å¾elva - die SchildkrÃ¶te-12-0
+linie/ÄÃ¡ra - die Linie-12-0
+nadÃ¡vat - schimpfen-12-0
 dopadnout - ausfallen-12-0
-pozdravit - begrüßen-12-0
-øada - die Reihe-12-0
-kolobìka - der Roller-12-0
-zapištìt/vykøiknout - quietschen-12-0
-u - bereits-12-0
-brıle - die Brille-12-0
-ruské kolo - das Reisenrad-12-0
-podle oèekávání - wie erwartet-12-0
-horlivı/snaivı - eifrig-12-0
-pozdrav - der Gruß-12-0
+pozdravit - begrÃ¼ÃŸen-12-0
+Å™ada - die Reihe-12-0
+kolobÄ›Å¾ka - der Roller-12-0
+zapiÅ¡tÄ›t/vykÅ™iknout - quietschen-12-0
+uÅ¾ - bereits-12-0
+brÃ½le - die Brille-12-0
+ruskÃ© kolo - das Reisenrad-12-0
+podle oÄekÃ¡vÃ¡nÃ­ - wie erwartet-12-0
+horlivÃ½/snaÅ¾ivÃ½ - eifrig-12-0
+pozdrav - der GruÃŸ-12-0
 bubnovat - trommeln-12-0
-dokonalı/bezchybnı - vollkommen-12-0
-vısledek - das Ergebnis-12-0
-vlastnit/mít - besitzen-12-0
+dokonalÃ½/bezchybnÃ½ - vollkommen-12-0
+vÃ½sledek - das Ergebnis-12-0
+vlastnit/mÃ­t - besitzen-12-0
 dorazit - ankommen-12-0
-zaslechnout/dozvìdìt se - mitbekommen-12-0
-popudit/rozhoøèit - empört-12-0
-spokojenı - zufrieden-12-0
-otvírat se - klaffen-12-0
+zaslechnout/dozvÄ›dÄ›t se - mitbekommen-12-0
+popudit/rozhoÅ™Äit - empÃ¶rt-12-0
+spokojenÃ½ - zufrieden-12-0
+otvÃ­rat se - klaffen-12-0
 sklopit - senken-12-0
 houpat se, viset - baumeln-12-0
-vstát - aufstehen-12-0
-dùstojnı - würdevoll-12-0
-pøeškrtnout - durchstreichen-12-0
-kıvnout/pokyvovat - nicken-12-0
-pøísahat/sloit pøísahu - schwören-12-0
+vstÃ¡t - aufstehen-12-0
+dÅ¯stojnÃ½ - wÃ¼rdevoll-12-0
+pÅ™eÅ¡krtnout - durchstreichen-12-0
+kÃ½vnout/pokyvovat - nicken-12-0
+pÅ™Ã­sahat/sloÅ¾it pÅ™Ã­sahu - schwÃ¶ren-12-0
 prcek/drobek - das Kerlchen-12-0
-klín - der Schoß-12-0
-zdvoøilı - höflich-12-0
+klÃ­n - der SchoÃŸ-12-0
+zdvoÅ™ilÃ½ - hÃ¶flich-12-0
 jazyk - die Zunge-12-0
-nù - das Messer-12-0
+nÅ¯Å¾ - das Messer-12-0
 namalovat/nakreslit - ziehen-12-0
-rozdávat - austeilen-12-0
+rozdÃ¡vat - austeilen-12-0
 chytnout/chopit se - greifen-12-0
-rozhlédnou se - blicken in die Runde-12-0
-šklebit se (posmívat se) - grinsen-12-0
-rùznı/rùznì - unterschiedlich-12-0
-okamitì - sofort-12-0
-základ - die Grundlage-12-0
-návštìvník - der Besucher-12-0
-sténat/naøíkat - stöhnen-12-0
-vánı - ernst-12-0
-oznámení/ohlášení - die Ankündigung-12-0
-pøerušení/zastavení - die Unterbrechung-12-0
-záøit/svítit - strahlen/leuchten-12-0
-e jo - gell-12-0
-dovnitø, Vstupte! - herein-12-0
-vıjimeènì - ausnahmsweise-12-0
-leknutí/úlek - der Schreck-12-0
+rozhlÃ©dnou se - blicken in die Runde-12-0
+Å¡klebit se (posmÃ­vat se) - grinsen-12-0
+rÅ¯znÃ½/rÅ¯znÄ› - unterschiedlich-12-0
+okamÅ¾itÄ› - sofort-12-0
+zÃ¡klad - die Grundlage-12-0
+nÃ¡vÅ¡tÄ›vnÃ­k - der Besucher-12-0
+stÃ©nat/naÅ™Ã­kat - stÃ¶hnen-12-0
+vÃ¡Å¾nÃ½ - ernst-12-0
+oznÃ¡menÃ­/ohlÃ¡Å¡enÃ­ - die AnkÃ¼ndigung-12-0
+pÅ™eruÅ¡enÃ­/zastavenÃ­ - die Unterbrechung-12-0
+zÃ¡Å™it/svÃ­tit - strahlen/leuchten-12-0
+Å¾e jo - gell-12-0
+dovnitÅ™, Vstupte! - herein-12-0
+vÃ½jimeÄnÄ› - ausnahmsweise-12-0
+leknutÃ­/Ãºlek - der Schreck-12-0
 ven - heraus-12-0
-šeptat - flüstern-12-0
-pøísaha (slavnostní slib) - der Schwur-12-0
+Å¡eptat - flÃ¼stern-12-0
+pÅ™Ã­saha (slavnostnÃ­ slib) - der Schwur-12-0
 svalit se/spadnout - purzeln-12-0
-širák (klobouk) - der Schlapphut-12-0
-známka (ve škole) - die Note-12-0
+Å¡irÃ¡k (klobouk) - der Schlapphut-12-0
+znÃ¡mka (ve Å¡kole) - die Note-12-0
 vzdychnout/vzdychat - seufzen-12-0
 nasadit si - aufsetzen-12-0
-vpøedu/vèele/na špici - voraus-12-0
+vpÅ™edu/vÄele/na Å¡pici - voraus-12-0
 sejmout/sundat - abnehmen-12-0
-pøekvapení - Überraschung-12-0
+pÅ™ekvapenÃ­ - Ãœberraschung-12-0
 nos - die Nase-12-0
-nedávno - neulich-12-0
+nedÃ¡vno - neulich-12-0
 zvednout - hoben-12-0
 dole - unten-12-0
-pøedtucha/tušení/zdání - die Ahnung-12-0
-vıraz tváøe - die Miene-12-0
-rozzlobit/rozzuøit - erbosen-12-0
-zubaø - der Zahnarzt-12-0
-málem/skoro - beinahe-12-0
-poplácat/popleskat - tätscheln-12-0
+pÅ™edtucha/tuÅ¡enÃ­/zdÃ¡nÃ­ - die Ahnung-12-0
+vÃ½raz tvÃ¡Å™e - die Miene-12-0
+rozzlobit/rozzuÅ™it - erbosen-12-0
+zubaÅ™ - der Zahnarzt-12-0
+mÃ¡lem/skoro - beinahe-12-0
+poplÃ¡cat/popleskat - tÃ¤tscheln-12-0
 had - die Schlange-12-0
-(za)tøást - schütteln-12-0
+(za)tÅ™Ã¡st - schÃ¼tteln-12-0
 potom - danach-12-0
-nepøíjemnı/nelibı - unangenehm-12-0
-bezvıhradnı/bezpodmíneènı - unbedingt-12-0
-zpráva/informace - der Bescheid-12-0
+nepÅ™Ã­jemnÃ½/nelibÃ½ - unangenehm-12-0
+bezvÃ½hradnÃ½/bezpodmÃ­neÄnÃ½ - unbedingt-12-0
+zprÃ¡va/informace - der Bescheid-12-0
 kmitnout se/mihnout se - huschen-12-0
-míchat, vmìšovat se - mischen-12-0
-zlo/neštìstí - das Unheil-12-0
-sklípkan - die Vogelspinne-12-0
-plnı/samı - voller-12-0
-vypoèítat - ausrechnen-12-0
-nadšenı - begeistert-12-0
+mÃ­chat, vmÄ›Å¡ovat se - mischen-12-0
+zlo/neÅ¡tÄ›stÃ­ - das Unheil-12-0
+sklÃ­pkan - die Vogelspinne-12-0
+plnÃ½/samÃ½ - voller-12-0
+vypoÄÃ­tat - ausrechnen-12-0
+nadÅ¡enÃ½ - begeistert-12-0
 mrsknout (hodit) - pfeffern-12-0
 ani - nicht mal-12-0
-zaútoèit/napadnout - angreifen-12-0
-uhánìt/øítit se - flitzen-12-0
-sevøít - klemmen-12-0
-pestrı/barevnı - bunt-12-0
+zaÃºtoÄit/napadnout - angreifen-12-0
+uhÃ¡nÄ›t/Å™Ã­tit se - flitzen-12-0
+sevÅ™Ã­t - klemmen-12-0
+pestrÃ½/barevnÃ½ - bunt-12-0
 drbat - kraulen-12-0
 osel - der Esel-12-0
-huhòat/mumlat - nuscheln-12-0
-dùleitı - wichtig-12-0
+huhÅˆat/mumlat - nuscheln-12-0
+dÅ¯leÅ¾itÃ½ - wichtig-12-0
 reproduktor - der Lautsprecher-12-0
-smrtelnı - tödlich-12-0
-zkroušenı/zdrcenı/sklíèenı - zerknirscht-12-0
+smrtelnÃ½ - tÃ¶dlich-12-0
+zkrouÅ¡enÃ½/zdrcenÃ½/sklÃ­ÄenÃ½ - zerknirscht-12-0
 lusknout (prsty) - schnippen-12-0
 (vy)drhnout - schrubben-12-0
-zábradlí - das Geländer-12-0
-zlostnı/naštvanı - ärgerlich-12-0
-zpùsobit/provést - anrichten-12-0
-døepìt - hocken-12-0
-pupínek - der Pickel-12-0
-uniknout/vyváznout - davonkommen-12-0
-domluvenı/dohodnutı - abgemacht-12-0
-nedùvìøivı - misstrauisch-12-0
+zÃ¡bradlÃ­ - das GelÃ¤nder-12-0
+zlostnÃ½/naÅ¡tvanÃ½ - Ã¤rgerlich-12-0
+zpÅ¯sobit/provÃ©st - anrichten-12-0
+dÅ™epÄ›t - hocken-12-0
+pupÃ­nek - der Pickel-12-0
+uniknout/vyvÃ¡znout - davonkommen-12-0
+domluvenÃ½/dohodnutÃ½ - abgemacht-12-0
+nedÅ¯vÄ›Å™ivÃ½ - misstrauisch-12-0
 ztuhnout - erstarren-12-0
 zvonit/cinkat - bimmeln-12-0
 hrnec - der Topf-12-0
-pùlkruh - der Halbkreis-12-0
+pÅ¯lkruh - der Halbkreis-12-0
 mravenec - die Ameise-12-0
-tlaèit se/cpát se - drängen-12-0
-vzácnì/zøídka - selten-12-0
-respektovat/všímat si - beachten-12-0
-krouit/projídìt se - herumkurven-12-0
+tlaÄit se/cpÃ¡t se - drÃ¤ngen-12-0
+vzÃ¡cnÄ›/zÅ™Ã­dka - selten-12-0
+respektovat/vÅ¡Ã­mat si - beachten-12-0
+krouÅ¾it/projÃ­Å¾dÄ›t se - herumkurven-12-0
 potulovat se - herumstreunen-12-0
-nahoøe/nahoru - oben-12-0
+nahoÅ™e/nahoru - oben-12-0
 zmizet/ztratit se - verschwunden-12-0
-vstupní dveøe - die Eingangstür-12-0
+vstupnÃ­ dveÅ™e - die EingangstÃ¼r-12-0
 opatrnost - die Vorsicht-12-0
-hvìzda - der Stern-12-0
-pøevzít/pøijmout - entgegennehmen-12-0
-dunìt/burácet - dröhnen-12-0
-rozhodnout se - beschließen-12-0
-vstup/pøístup - der Zutritt-12-0
+hvÄ›zda - der Stern-12-0
+pÅ™evzÃ­t/pÅ™ijmout - entgegennehmen-12-0
+dunÄ›t/burÃ¡cet - drÃ¶hnen-12-0
+rozhodnout se - beschlieÃŸen-12-0
+vstup/pÅ™Ã­stup - der Zutritt-12-0
 obloha/nebe - der Himmel-12-0
-smìr - die Richtung-12-0
-svìdit - kribbeln-12-0
+smÄ›r - die Richtung-12-0
+svÄ›dit - kribbeln-12-0
 prskat, odfrknout si - prusten-12-0
-síla/nápor - die Wucht-12-0
+sÃ­la/nÃ¡por - die Wucht-12-0
 klakson - die Hupe-12-0
 nabourat/narazit - rammen-12-0
 plivat - spucken-12-0
-mluvit nosem/huhòat - näseln-12-0
-pozvednout/vznést - erheben-12-0
-zmenšit se/scvrknout se - schrumpfen-12-0
-vøískat/jeèet - kreischen-12-0
-zírat/civìt/èumìt - anglotzten-12-0
-naproti - drüben-12-0
-cvièit/trénovat - üben-12-0
-hnát - treiben-12-0
-bìdovat/naøíkat - jammern-12-0
+mluvit nosem/huhÅˆat - nÃ¤seln-12-0
+pozvednout/vznÃ©st - erheben-12-0
+zmenÅ¡it se/scvrknout se - schrumpfen-12-0
+vÅ™Ã­skat/jeÄet - kreischen-12-0
+zÃ­rat/civÄ›t/ÄumÄ›t - anglotzten-12-0
+naproti - drÃ¼ben-12-0
+cviÄit/trÃ©novat - Ã¼ben-12-0
+hnÃ¡t - treiben-12-0
+bÄ›dovat/naÅ™Ã­kat - jammern-12-0
 Odejdi! - Zieh Leine!-12-0
 sotva - kaum-12-0
-dospìlı/dospšlá - der/die Erwachsene-12-0
-uprostøed/ve støedu - mitten-12-0
-pøipoutat/pøipásat - festschnallen-12-0
-odloit - ablegen-12-0
-oznámit/ohlásit - ankündigen-12-0
-odpadkovı koš - der Abfalleimer-12-0
-dìsivı/hrùznı - gruselig-12-0
-dopravní prostøedek - das Fahrzeug-12-0
+dospÄ›lÃ½/dospÅ¡lÃ¡ - der/die Erwachsene-12-0
+uprostÅ™ed/ve stÅ™edu - mitten-12-0
+pÅ™ipoutat/pÅ™ipÃ¡sat - festschnallen-12-0
+odloÅ¾it - ablegen-12-0
+oznÃ¡mit/ohlÃ¡sit - ankÃ¼ndigen-12-0
+odpadkovÃ½ koÅ¡ - der Abfalleimer-12-0
+dÄ›sivÃ½/hrÅ¯znÃ½ - gruselig-12-0
+dopravnÃ­ prostÅ™edek - das Fahrzeug-12-0
 tlapa - die Pfote-12-0
-hrdost/pıcha - der Stolz-12-0
-pøedèítat/èíst nahlas - vorlesen-12-0
-peèlivı/starostlivı - sorgsam-12-0
-zøíci se/vzdát se - verzichten-12-0
+hrdost/pÃ½cha - der Stolz-12-0
+pÅ™edÄÃ­tat/ÄÃ­st nahlas - vorlesen-12-0
+peÄlivÃ½/starostlivÃ½ - sorgsam-12-0
+zÅ™Ã­ci se/vzdÃ¡t se - verzichten-12-0
 krk - der Hals-12-0
 dech - die Luft-12-0
-zákusek/dezert - der Nachtisch-12-0
+zÃ¡kusek/dezert - der Nachtisch-12-0
 kraj/okraj - der Rand-12-0
-pøipravenı - bereit-12-0
-náramkové hodinky - der Armbanduhr-12-0
-cizí - fremd-12-0
-nenávidìt/nesnášet - hassen-12-0
-bìnı/obyèejnı - gewöhnlich-12-0
-šourat se/dloubat se - stochern-12-0
-natáhnout - recken-12-0
-øetìz - die Kette-12-0
-stìovat si - beschweren-12-0
-nìkde jinde - woanders-12-0
-ústní (zkouška ap.) - mündlich-12-0
+pÅ™ipravenÃ½ - bereit-12-0
+nÃ¡ramkovÃ© hodinky - der Armbanduhr-12-0
+cizÃ­ - fremd-12-0
+nenÃ¡vidÄ›t/nesnÃ¡Å¡et - hassen-12-0
+bÄ›Å¾nÃ½/obyÄejnÃ½ - gewÃ¶hnlich-12-0
+Å¡Å¥ourat se/dloubat se - stochern-12-0
+natÃ¡hnout - recken-12-0
+Å™etÄ›z - die Kette-12-0
+stÄ›Å¾ovat si - beschweren-12-0
+nÄ›kde jinde - woanders-12-0
+ÃºstnÃ­ (zkouÅ¡ka ap.) - mÃ¼ndlich-12-0
 cupitat - trippeln-12-0
-místo toho - stattdessen-12-0
-øídit (auto) - steuern-12-0
+mÃ­sto toho - stattdessen-12-0
+Å™Ã­dit (auto) - steuern-12-0
 klobouk - der Hut-12-0
-zapnout (spínaèem) - anknipsen-12-0
-rozhodnutí - die Entscheidung-12-0
-šerı/ponurı - dämmrig-12-0
-kıchnout/kıchat - niesen-12-0
-èelo - die Stirn-12-0
+zapnout (spÃ­naÄem) - anknipsen-12-0
+rozhodnutÃ­ - die Entscheidung-12-0
+Å¡erÃ½/ponurÃ½ - dÃ¤mmrig-12-0
+kÃ½chnout/kÃ½chat - niesen-12-0
+Äelo - die Stirn-12-0
 uklidnit - beruhigen-12-0
-tichı - leise-12-0
-suchı - trocken-12-0
+tichÃ½ - leise-12-0
+suchÃ½ - trocken-12-0
 selhat - versagen-12-0
 objevit - entdecken-12-0
 uklonit se/poklonit se - verbeugen-12-0
-pokraèovat - weitermachen-12-0
-bıt pøilepenı - kleben-12-0
-naèmárat - kritzeln-12-0
-skøípat - dudeln-12-0
-posbírat/sesbírat - einsammeln-12-0
-pøihrát - zuspielen-12-0
-pampeliška - der Löwenzahn-12-0
-bát se/obávat se - fürchten-12-0
-kododenní - tagtäglich-12-0
-pokárat - zurechtweisen-12-0
+pokraÄovat - weitermachen-12-0
+bÃ½t pÅ™ilepenÃ½ - kleben-12-0
+naÄmÃ¡rat - kritzeln-12-0
+skÅ™Ã­pat - dudeln-12-0
+posbÃ­rat/sesbÃ­rat - einsammeln-12-0
+pÅ™ihrÃ¡t - zuspielen-12-0
+pampeliÅ¡ka - der LÃ¶wenzahn-12-0
+bÃ¡t se/obÃ¡vat se - fÃ¼rchten-12-0
+koÅ¾dodennÃ­ - tagtÃ¤glich-12-0
+pokÃ¡rat - zurechtweisen-12-0
 ostrov - die Insel-12-0
-nìklidnı/ivı/nervózní - unruhig-12-0
-staèit - ausreichen-12-0
-horská dráha - die Achterbahn-12-0
+nÄ›klidnÃ½/Å¾ivÃ½/nervÃ³znÃ­ - unruhig-12-0
+staÄit - ausreichen-12-0
+horskÃ¡ drÃ¡ha - die Achterbahn-12-0
 vzniknout - entstehen-12-0
-alespoò/pøinejnmenším - zumindest-12-0
-záloha na láhev - das Flaschenpfand-12-0
-èíslo/poèet - die Zahl-12-0
-napjatı - gespannt-12-0
+alespoÅˆ/pÅ™inejnmenÅ¡Ã­m - zumindest-12-0
+zÃ¡loha na lÃ¡hev - das Flaschenpfand-12-0
+ÄÃ­slo/poÄet - die Zahl-12-0
+napjatÃ½ - gespannt-12-0
 voda - das Wasser -16-0

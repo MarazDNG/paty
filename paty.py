@@ -254,7 +254,7 @@ def submit():
         checked_flag = 0
 
 
-with open('vocabulary_de.txt', 'r') as f:
+with open('vocabulary_de.txt', 'r', encoding='utf-8') as f:
     lines = f.read()
 lines = lines.split('\n')
 
