@@ -84,7 +84,7 @@ class Processed_file_data():
             self.practice_words_list.remove(word)
 
     def save_data(self):
-        with open('next.txt', 'w', encoding=Unicode) as f:
+        with open('next.txt', 'w', encoding='utf-8') as f:
             for i in range(len(self.chunk_words_list)):
                 f.writelines([
                         self.chunk_words_list[i].left, '-',

@@ -3,7 +3,7 @@ dav/vřava - das Getümmel-14-1
 hádat/hloubat -  rätseln-9-1
 končit/přestat - aufhören-0-1
 kousat - kauen-11-1
-vyděsit se/polekat se - erschrecken-11-1
+vyděsit se/polekat se - erschrecken-0-1
 žebrat - betteln-5-1
 zabalit - einpacken-7-1
 palec (na ruce) - die Daumen-10-1
@@ -23,7 +23,7 @@ lichotit - schmeicheln-0-1
 cvičebnice - Übungsheft-5-1
 rodná země/vlast - das Heimatland-8-1
 mazaný/chytrý - schlau-1-1
-lístek/cedule - der Zettel-10-1
+lístek/cedule - der Zettel-0-1
 svěřit - anvertrauen-0-1
 žasnout/divit se - staunen-7-1
 paměť - die Erinnerung-8-1
