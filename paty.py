@@ -25,6 +25,9 @@ button_font = font.Font(size=12)
 mainframe = Frame(root)
 mainframe.place(relx=0.5, rely=0.5, anchor=CENTER)
 
+menu = Frame(root)
+menu.place(relx=0.5, rely=0.5, anchor=CENTER)
+
 wordsframe = Frame(mainframe)
 wordsframe.pack()
 
@@ -52,7 +55,6 @@ red_lines = []
 checked_flag = 0
 
 submit_btn = tkinter.Button(checkframe, text='check')
-submit_btn.pack(side=TOP)
 submit_btn['font'] = button_font
 submit_btn['command'] = lambda: submit()
 
@@ -260,10 +262,21 @@ lines = lines.split('\n')
 
 data = Processed_file_data(lines)
 
-create_buttons()
-load_vocab()
-fill_buttons()
-place_buttons()
+
+opt0_btn = tkinter.Button(menu, text='CHUNK SELECT', command=lambda: option(0))
+opt1_btn = tkinter.Button(menu, text='ALL WORDS', command=lambda: option(1))
+opt0_btn.pack()
+opt1_btn.pack()
+
+def option(val):
+    global OPTION
+    OPTION = val
+    menu.destroy()
+    create_buttons()
+    load_vocab()
+    fill_buttons()
+    place_buttons()
+    submit_btn.pack(side=TOP)
 
 
 root.mainloop()
