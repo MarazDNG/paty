@@ -12,6 +12,7 @@ from random import shuffle
 
 OPTION = 0
 
+start = 0
 
 root = tkinter.Tk()
 root.geometry('700x350')
@@ -24,9 +25,6 @@ button_font = font.Font(size=12)
 
 mainframe = Frame(root)
 mainframe.place(relx=0.5, rely=0.5, anchor=CENTER)
-
-menu = Frame(root)
-menu.place(relx=0.5, rely=0.5, anchor=CENTER)
 
 wordsframe = Frame(mainframe)
 wordsframe.pack()
@@ -80,6 +78,24 @@ def remove_red_lines():
     for line in red_lines:
         cvs.after(0, cvs.delete, line)
     red_lines = []
+
+
+class Menu():
+    def __init__(self):
+        self.menu = Frame(root)
+        self.opt0 = tkinter.Button(self.menu, text='CHUNK SELECT', command=lambda: self.option(0))
+        self.opt1 = tkinter.Button(self.menu, text='ALL WORDS', command=lambda: self.option(1))
+
+    def run(self):
+        self.menu.place(relx=0.5, rely=0.5, anchor=CENTER)
+        self.opt0.pack()
+        self.opt1.pack()
+
+    def option(self, val):
+        global OPTION
+        OPTION = val
+        self.menu.destroy()
+        start()
 
 
 class Connection():
@@ -262,22 +278,17 @@ lines = lines.split('\n')
 
 data = Processed_file_data(lines)
 
+menu = Menu()
+menu.run()
 
-opt0_btn = tkinter.Button(menu, text='CHUNK SELECT', command=lambda: option(0))
-opt1_btn = tkinter.Button(menu, text='ALL WORDS', command=lambda: option(1))
-opt0_btn.pack()
-opt1_btn.pack()
-
-def option(val):
-    global OPTION
-    OPTION = val
-    menu.destroy()
+def start():
     create_buttons()
+    remove_red_lines()
     load_vocab()
     fill_buttons()
+    remove_connections()
     place_buttons()
-    submit_btn.pack(side=TOP)
-
+    submit_btn.pack()
 
 root.mainloop()
 
