@@ -48,6 +48,7 @@ connections_list = []
 vocab = []
 active_button = None
 
+# stores pairs of buttons. Is also used for finding correct answer.
 buttons = [[], []]
 red_lines = []
 checked_flag = 0
@@ -85,11 +86,13 @@ class Menu():
         self.menu = Frame(root)
         self.opt0 = tkinter.Button(self.menu, text='CHUNK SELECT', command=lambda: self.option(0))
         self.opt1 = tkinter.Button(self.menu, text='ALL WORDS', command=lambda: self.option(1))
+        self.opt2 = tkinter.Button(self.menu, text='ONE PER SELECT', command=lambda: self.option(2))
 
     def run(self):
         self.menu.place(relx=0.5, rely=0.5, anchor=CENTER)
         self.opt0.pack()
         self.opt1.pack()
+        self.opt2.pack()
 
     def option(self, val):
         global OPTION
@@ -196,6 +199,9 @@ def fill_buttons():
         # print(len(buttons))
         # print(len(vocab))
         buttons[0][i].txt(vocab[i].left)
+        if OPTION == 2:
+            buttons[1][i].txt(vocab[i + 4].right)
+            continue
         buttons[1][i].txt(vocab[i].right)
 
 
@@ -215,13 +221,21 @@ def place_buttons():
     arr_04 = [0, 1, 2, 3, 4]
     shuffle(arr_04)
     for i in range(BUTTON_COUNT):
-        buttons[0][i].place(F1_WIDTH - buttons[0][i].btn.winfo_reqwidth(),
+        buttons[0][arr_04[i]].place(F1_WIDTH - buttons[0][arr_04[i]].btn.winfo_reqwidth(),
                             buttons[0][0].btn.winfo_reqheight() * i)
+
+    shuffle(arr_04)
+    for i in range(BUTTON_COUNT):
         buttons[1][arr_04[i]].place(0, buttons[0][0].btn.winfo_reqheight() * i)
 
 
 def check_answers():
     global data
+    if OPTION == 2:
+        if (len(connections_list) == 0) or ({connections_list[0].left_btn.text, connections_list[0].right_btn.text} != {buttons[0][4].text, buttons[1][0].text}):
+            red_lines.append(
+                connect_buttons(buttons[0][4], buttons[1][0], 'red'))
+        return
 
     for i in range(BUTTON_COUNT):
         if not is_correct(i):
@@ -255,6 +269,8 @@ def load_vocab():
         vocab = data.select_from_chunk_words(BUTTON_COUNT)
     elif OPTION == 1:
         vocab = data.select_from_all_words(BUTTON_COUNT)
+    elif OPTION == 2:
+        vocab = data.select_from_all_words(BUTTON_COUNT * 2 - 1)
 
 def submit():
     global checked_flag
