@@ -1,53 +1,53 @@
-dosáhnout - erreichen-0-1
-dav/vřava - das Getümmel-14-1
-hádat/hloubat -  rätseln-9-1
-končit/přestat - aufhören-0-1
-kousat - kauen-11-1
-vyděsit se/polekat se - erschrecken-0-1
-žebrat - betteln-5-1
-zabalit - einpacken-7-1
-palec (na ruce) - die Daumen-10-1
-zrovna/právě - ausgerechnet-0-1
-zrak/pohled - der Blick-8-1
-odvrátit - abwenden-0-1
+dosáhnout - erreichen-6-1
+končit/přestat - aufhören-7-1
+vyděsit se/polekat se - erschrecken-9-1
+žebrat - betteln-13-1
+zabalit - einpacken-0-1
+zrovna/právě - ausgerechnet-1-1
+zrak/pohled - der Blick-11-1
+odvrátit - abwenden-13-1
 odjet - wegfahren-0-1
-mrzutý - mürrisch-0-1
-drnčet/rachotit - rattern-0-1
-písmeno - der Buchstabe-0-1
-označit - bezeichnen-0-1
-díra/otvor - das Loch-0-1
-pohnout - bewegen-0-1
-pozítří - übermorgen-0-1
-prázdný - leer-0-1
-lichotit - schmeicheln-0-1
-cvičebnice - Übungsheft-5-1
-rodná země/vlast - das Heimatland-8-1
-mazaný/chytrý - schlau-1-1
-lístek/cedule - der Zettel-0-1
+mrzutý - mürrisch-7-1
+drnčet/rachotit - rattern-11-1
+písmeno - der Buchstabe-9-1
+označit - bezeichnen-7-1
+díra/otvor - das Loch-5-1
+pohnout - bewegen-10-1
+pozítří - übermorgen-5-1
+prázdný - leer-1-1
+lichotit - schmeicheln-10-1
+cvičebnice - Übungsheft-0-1
+mazaný/chytrý - schlau-11-1
+lístek/cedule - der Zettel-10-1
 svěřit - anvertrauen-0-1
-žasnout/divit se - staunen-7-1
-paměť - die Erinnerung-8-1
-pochodovat - marschieren-0-1
-nechat si - behalten-0-1
-snažit se - bemühen-0-1
-šťouchnout - stupsen-0-1
-zrzavý - rothaarig-9-1
-oslňující - blenden-2-1
-zkušený - erfahren-5-1
-Na zdraví! - Gesundheit!-7-1
-opak/protiklad - das Gegenteil-0-1
-zarazit se - stutzen-1-1
-soused - der Nachbar-3-1
-igelitový sáček - die Plastiktüte-0-1
-doučování - die Nachhilfestunde-0-1
-hloupý - dumm/blöd-2-1
-(za)znít - tönen-2-1
-něžný - zärtlich-1-1
-řešení - die Lösung-0-1
-podepřít, podporovat - unterstützen-0-1
-přivléci/dovléci - anschleppen-0-1
+žasnout/divit se - staunen-0-1
+pochodovat - marschieren-7-1
+nechat si - behalten-13-1
+snažit se - bemühen-5-1
+šťouchnout - stupsen-11-1
+oslňující - blenden-0-1
+zkušený - erfahren-6-1
+Na zdraví! - Gesundheit!-12-1
+opak/protiklad - das Gegenteil-7-1
+zarazit se - stutzen-10-1
+igelitový sáček - die Plastiktüte-8-1
+doučování - die Nachhilfestunde-8-1
+hloupý - dumm/blöd-8-1
+(za)znít - tönen-0-1
+něžný - zärtlich-6-1
+řešení - die Lösung-13-1
+podepřít, podporovat - unterstützen-6-1
+přivléci/dovléci - anschleppen-7-1
 odložit - aufschieben-0-1
-vztek/zlost - die Wut-1-1
+vztek/zlost - die Wut-3-1
+kraj/okraj - der Rand-13-1
+zlostný/naštvaný - ärgerlich-13-1
+odpočívat, nechat v klidu - ausruhen-0-1
+zbraň - die Waffe -12-1
+vedle - neben -12-1
+vyvýšený - erhaben-13-1
+napřed - zuerst -0-1
+zmenšit se/scvrknout se - schrumpfen-12-1
 záloha - das Pfandgeld-0-0
 skladník - der Lagerarbeiter-0-0
 přítomnost - die Anwesenheit-0-0
@@ -95,19 +95,17 @@ volný - frei -12-0
 snídaně - das Frühstück -12-0
 prodejní pult - der Landentisch -12-0
 jen/pouze - nur -12-0
-konečně - endlich -12-0
 vesnice - das Dorf -12-0
 koupat (se) - baden -12-0
 sice - zwar -12-0
 koho/čeho/čí - wessen -12-0
 salám - die Wurst -12-0
-obdivovat - bewunder -12-0
+obdivovat - bewundern -12-0
 běžet/běhat, chodit(hov.) - laufen -12-0
 dokonce - sogar -12-0
 vyobrazení - das Abbild -12-0
 krerý/která/které - welcher/welche/welches -12-0
 velikost - die Größe -12-0
-včas - rechtzeitig -12-0
 židle - der Stuhl -12-0
 chleba - das Brot -12-0
 nádherý/nádherně - herrlich -12-0
@@ -136,9 +134,7 @@ k tomu - dazu -12-0
 dlouho/dlouze - lange -12-0
 slunce - die Sonne -12-0
 sýr - der Käse -12-0
-posadit se - sich setzen -12-0
-obsahovat/zahrnovat - enthalten -12-0
-idtamtud - von dort aus -12-0
+odtamtud - von dort aus -12-0
 nakoupit/nakupovat - einkaufen -12-0
 bota - der Schuh -12-0
 tak/tedy - also -12-0
@@ -157,7 +153,7 @@ snad/asi - wohl -12-0
 kdysi/jednou - einst -12-0
 méně - weniger -12-0
 zasloužit si - verdienen -12-0
-jistý/jistě, určitý/určitě - bestimmat -12-0
+jistý/jistě, určitý/určitě - bestimmt -12-0
 nerozvážný/neuvážený - umbedacht -12-0
 asi/přibližně - etwa -12-0
 mladý - jung -12-0
@@ -185,7 +181,6 @@ bezradný/bezradně - ratlos -12-0
 pomáhat/pomoci (při, s) - helfen (bei, mit) -12-0
 pro dnešek dost - für heute Schluß -12-0
 jaro - der Frühling -12-0
-vědět - wissen -12-0
 často/častý - häufig -12-0
 mít povinnost - sollen -12-0
 radost/potěšení - die Freude -12-0
@@ -209,9 +204,7 @@ zajetí - die Gefangenschaft -12-0
 poděkovat - danken -12-0
 strach - die Angst -12-0
 zeď - die Wand -12-0
-jinak - sonst -12-0
 jet/jezdit - fahren -12-0
-napřed - zuerst -12-0
 asi/kolem - ungefähr -12-0
 hl. město - die Haupstadt -12-0
 svítit, zdát se - scheinen -12-0
@@ -224,7 +217,7 @@ počítat - rechnen -12-0
 nabídnout - anbieten -12-0
 snad/třeba/možná - vielleicht -12-0
 od (doby) - seit -12-0
-opratrný - vorsichtig -12-0
+opatrný - vorsichtig -12-0
 zvědavý - neugierig -12-0
 darovat/dát - schenken -12-0
 málo - wenig -12-0
@@ -253,7 +246,7 @@ haléř - der Heller -12-0
 roh - die Ecke -12-0
 dosud - bisher -12-0
 milý - nett -12-0
-ihned - gleich -12-0
+ihned/okamžitě - gleich/sofort -12-0
 (vy)čistit, uklízet - sauber machen -12-0
 šunka - der Schinken -12-0
 maso - das Fleisch -12-0
@@ -264,7 +257,7 @@ tam (na ot. kam?) - dorthin -12-0
 mezi - zwischer -12-0
 zastavit/zastavovat - an/halten -12-0
 chybný/chybně - falsch -12-0
-Jsme velmi rád. - Ich bin sehr froh. -12-0
+Jsem velmi rád. - Ich bin sehr froh. -12-0
 chtít - wollen -12-0
 jít spát/jít do postele - zu Bett gehen -12-0
 strávit (čas) - verbringen -12-0
@@ -273,7 +266,7 @@ nazvat/nazývat, jmenovat - nennen -12-0
 pospíšit si - sich beeilen -12-0
 česat (se) - (sich) kämmen -12-0
 kroj - die Tracht -12-0
-konečně - schließlich -12-0
+konečně - endlich/schließlich -12-0
 jít dál - weiter/gehen -12-0
 vzhled - die Gestalt -12-0
 lhát - lügen -12-0
@@ -300,7 +293,6 @@ významný/významně - bedeutend -12-0
 trochu - ein bißchen -12-0
 hodina - die Stunde -12-0
 řetízek/náhrdelník - die Kette -12-0
-smrtelný - sterblich -12-0
 zdravý/zdravě - gesund -12-0
 představit (se) - (sich) vorstellen -12-0
 koláč - der Kuchen -12-0
@@ -308,7 +300,6 @@ z - aus -12-0
 sekretářka - die Sekretärin -12-0
 proto - deshalb -12-0
 dárek - das Geschenk -12-0
-zbraň - die Waffe -12-0
 člun/loďka - der Kahn -12-0
 jako - als -12-0
 tvrdit - behaupten -12-0
@@ -330,7 +321,6 @@ dávat pozor/dohlížet - aufpassen-12-0
 pot - der Schweiß-12-0
 úkol - die Aufgabe-12-0
 mít rád/mít chuť - mögen -12-0
-vedle - neben -12-0
 počítat - zählen -12-0
 řidičák - der Führensehein -12-0
 skála - der Felsen-12-0
@@ -347,19 +337,17 @@ potit se - schwitzen-12-0
 marka - die Mark -12-0
 ukázat/ukazovat - zaigen -12-0
 vyřídit/zařídit - erledigen -12-0
-dorazit/dostavit se - eintreffen-12-0
-půvabný/půvabně - reizvoll -12-0
+dorazit/dostavit se - ankommen/eintreffen-12-0
+půvabný/půvabně - zierlich/reizvoll -12-0
 foukat/vát - wehen-12-0
 přístav - der Hafen-12-0
 zřejmě, asi - womöglich-12-0
 ztratit - verlieren-12-0
 následovat - nachgehen-12-0
 naléhavý - dringend-12-0
-odpočívat, nechat v klidu - ausruhen-12-0
 požehnat/žehnat - segnen-12-0
 dosahovat - reichen-12-0
 nejvyšší - höchsten-12-0
-vyvýšený - erhaben-12-0
 stáhnout - herunterladen-12-0
 zákazník - die Kunde-12-0
 Ale až dosud je to stále.. - Doch bis jetzt ist noch..-12-0
@@ -379,11 +367,10 @@ chránit - beschützen-12-0
 stráň/svah/úbočí - der Abhang-12-0
 pečlivý/svědomitý - sorgfältig-12-0
 proto - daher-12-0
-rozhlédnout se - umsehen-12-0
 výraz - der Ausdruck-12-0
 zkoumat/prozkoumat - erforschen-12-0
 bič - die Paitsche-12-0
-fein - jemný-12-0
+jemný - fein -12-0
 tvář/obličej - das Antlitz-12-0
 hlučet - lärmen-12-0
 promrhat, promarnit - verschwenden-12-0
@@ -393,7 +380,6 @@ básník - der Dichter-12-0
 tuhý/pevný - fest-12-0
 horký - heiß-12-0
 dříve než/předtím než - ehe-12-0
-zierlich - půvabný-12-0
 požehnání - der Segen-12-0
 syrový - roh-12-0
 srozuměný - einverstanden-12-0
@@ -415,7 +401,6 @@ podlaha - der (Fuß)Boden-12-0
 Kolik je hodin? - Wie spät ist es?-12-0
 oko - das Auge-12-0
 hrudník - die Brust-12-0
-straka - die Elster-12-0
 koberec - der Teppich-12-0
 ovladač - der Regler-12-0
 statkář - der Gutsherr-12-0
@@ -429,7 +414,6 @@ tehdy - damals-12-0
 paže - der Arm-12-0
 nálada - die Laune-12-0
 rozdělit/dělit - teilen-12-0
-hvízdat - flöten-12-0
 udeřit/vrazit - stoßen-12-0
 ulice/ulička - die Gasse-12-0
 rostlina - die Pflanze-12-0
@@ -494,7 +478,6 @@ miska - die Schüssel-12-0
 hodit - werfen-12-0
 vonět - duften-12-0
 hihňat se - kichern-12-0
-šarmantní/okouzlující - charmant-12-0
 rozčílení/vzrušení - die Aufregung-12-0
 dozadu - nach hinten-12-0
 kadeř - die Locke-12-0
@@ -541,7 +524,6 @@ bubnovat - trommeln-12-0
 dokonalý/bezchybný - vollkommen-12-0
 výsledek - das Ergebnis-12-0
 vlastnit/mít - besitzen-12-0
-dorazit - ankommen-12-0
 zaslechnout/dozvědět se - mitbekommen-12-0
 popudit/rozhořčit - empört-12-0
 spokojený - zufrieden-12-0
@@ -561,10 +543,9 @@ nůž - das Messer-12-0
 namalovat/nakreslit - ziehen-12-0
 rozdávat - austeilen-12-0
 chytnout/chopit se - greifen-12-0
-rozhlédnou se - blicken in die Runde-12-0
+rozhlédnout se - umsehen/blicken in die Runde-12-0
 šklebit se (posmívat se) - grinsen-12-0
 různý/různě - unterschiedlich-12-0
-okamžitě - sofort-12-0
 základ - die Grundlage-12-0
 návštěvník - der Besucher-12-0
 sténat/naříkat - stöhnen-12-0
@@ -586,7 +567,7 @@ vzdychnout/vzdychat - seufzen-12-0
 nasadit si - aufsetzen-12-0
 vpředu/včele/na špici - voraus-12-0
 sejmout/sundat - abnehmen-12-0
-překvapení - Überraschung-12-0
+překvapení - die Überraschung-12-0
 nos - die Nase-12-0
 nedávno - neulich-12-0
 zvednout - hoben-12-0
@@ -621,17 +602,15 @@ osel - der Esel-12-0
 huhňat/mumlat - nuscheln-12-0
 důležitý - wichtig-12-0
 reproduktor - der Lautsprecher-12-0
-smrtelný - tödlich-12-0
+smrtelný - tödlich/sterblich-12-0
 zkroušený/zdrcený/sklíčený - zerknirscht-12-0
 lusknout (prsty) - schnippen-12-0
 (vy)drhnout - schrubben-12-0
 zábradlí - das Geländer-12-0
-zlostný/naštvaný - ärgerlich-12-0
 způsobit/provést - anrichten-12-0
 dřepět - hocken-12-0
 pupínek - der Pickel-12-0
 uniknout/vyváznout - davonkommen-12-0
-domluvený/dohodnutý - abgemacht-12-0
 nedůvěřivý - misstrauisch-12-0
 ztuhnout - erstarren-12-0
 zvonit/cinkat - bimmeln-12-0
@@ -662,7 +641,6 @@ nabourat/narazit - rammen-12-0
 plivat - spucken-12-0
 mluvit nosem/huhňat - näseln-12-0
 pozvednout/vznést - erheben-12-0
-zmenšit se/scvrknout se - schrumpfen-12-0
 vřískat/ječet - kreischen-12-0
 zírat/civět/čumět - anglotzten-12-0
 naproti - drüben-12-0
@@ -674,7 +652,7 @@ sotva - kaum-12-0
 dospělý/dospšlá - der/die Erwachsene-12-0
 uprostřed/ve středu - mitten-12-0
 připoutat/připásat - festschnallen-12-0
-odložit - ablegen-12-0
+odložit si - ablegen-12-0
 oznámit/ohlásit - ankündigen-12-0
 odpadkový koš - der Abfalleimer-12-0
 děsivý/hrůzný - gruselig-12-0
@@ -687,7 +665,6 @@ zříci se/vzdát se - verzichten-12-0
 krk - der Hals-12-0
 dech - die Luft-12-0
 zákusek/dezert - der Nachtisch-12-0
-kraj/okraj - der Rand-12-0
 připravený - bereit-12-0
 náramkové hodinky - der Armbanduhr-12-0
 cizí - fremd-12-0
@@ -734,3 +711,19 @@ záloha na láhev - das Flaschenpfand-12-0
 číslo/počet - die Zahl-12-0
 napjatý - gespannt-12-0
 voda - das Wasser -16-0
+dav/vřava - das Getümmel-15-0
+kousat - kauen-15-0
+hádat/hloubat -  rätseln-15-0
+domluvený/dohodnutý - abgemacht-15-0
+obsahovat/zahrnovat - enthalten -15-0
+vědět - wissen -15-0
+palec (na ruce) - die Daumen-15-0
+šarmantní/okouzlující - charmant-15-0
+včas - rechtzeitig -15-0
+zrzavý - rothaarig-15-0
+paměť - die Erinnerung-15-0
+jinak - sonst -15-0
+rodná země/vlast - das Heimatland-15-0
+straka - die Elster-15-0
+posadit se - sich setzen -15-0
+soused - der Nachbar-15-0
