@@ -3,10 +3,10 @@ import os
 
 
 class Vocabulary_file_structure():
-    left = 0
-    right = 1
-    streak = 2
-    in_chunk = 3
+    left = 1
+    right = 2
+    streak = 3
+    in_chunk = 4
 
 
 SPLIT_CHARACTER = '-'
@@ -36,11 +36,17 @@ class Processed_file_data():
         self.practice_words_list = []
         self.chunk_words_list = []
         self.done_words_list = []
+        self.nouns_list = []
         print('jsipica')
 
         for line in file_lines:
             temp = Processed_line(line)
             self.all_words_list.append(temp)
+            temp_string = temp.right.lstrip()
+            first_word = temp_string.split(' ')[0]
+            #print(first_word)
+            if first_word in ['der', 'die', 'das']:
+                self.nouns_list.append(temp)
             if temp.in_chunk:
                 self.chunk_words_list.append(temp)
             elif temp.streak >= STREAK_LIMIT:
