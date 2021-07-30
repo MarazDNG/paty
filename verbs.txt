@@ -1,0 +1,261 @@
+v-dosáhnout - erreichen-6-1
+v-končit/přestat - aufhören-7-1
+v-vyděsit se/polekat se - erschrecken-9-1
+v-žebrat - betteln-13-1
+v-zabalit - einpacken-0-1
+v-odvrátit - abwenden-13-1
+v-odjet - wegfahren-0-1
+v-drnčet/rachotit - rattern-11-1
+v-označit - bezeichnen-7-1
+v-pohnout - bewegen-10-1
+v-lichotit - schmeicheln-10-1
+v-svěřit - anvertrauen-0-1
+v-žasnout/divit se - staunen-0-1
+v-pochodovat - marschieren-7-1
+v-nechat si - behalten-13-1
+v-snažit se - bemühen-5-1
+v-šťouchnout - stupsen-11-1
+v-zarazit se - stutzen-10-1
+v-(za)znít - tönen-0-1
+v-podepřít, podporovat - unterstützen-6-1
+v-přivléci/dovléci - anschleppen-7-1
+v-odložit - aufschieben-0-1
+v-odpočívat, nechat v klidu - ausruhen-0-1
+v-zmenšit se/scvrknout se - schrumpfen-12-1
+v-vymrštit se - schnellen-0-0
+v-způsobit/způsobovat - verursachen -12-0
+v-objednat/objednávat - bestellen -12-0
+v-viset/pověsit - hängen -12-0
+v-doplnit/doplňovat, dodat - ergänzen -12-0
+v-učit se - lernen -12-0
+v-koupit si - sich kaufen -12-0
+v-vybrat (si)/ vybírat (si)/vyhledat - (sich) aus/suchen -12-0
+v-obávat se - befürchten -12-0
+v-posadit se/sednout si - (sich) setzen -12-0
+v-zaplatit - bezahlen -12-0
+v-zkusit - versuchen -12-0
+v-seznámit (s někým) - bekannt machen -12-0
+v-moci/smět - können -12-0
+v-moci/smět - dürfen -12-0
+v-koupat (se) - baden -12-0
+v-obdivovat - bewundern -12-0
+v-běžet/běhat, chodit(hov.) - laufen -12-0
+v-hodit se - sich eignen -12-0
+v-(po)radit, hádat - raten -12-0
+v-položit/klást, dát - legen -12-0
+v-nakoupit/nakupovat - einkaufen -12-0
+v-použít - benutzen -12-0
+v-čekat (na) - warten (auf 4.p) -12-0
+v-zodpovědět - beantworten -12-0
+v-doprovodit/(do)provázet - begleiten -12-0
+v-zasloužit si - verdienen -12-0
+v-prodat/prodávat - verkaufen -12-0
+v-prohlédnout si - besichtigen -12-0
+v-smět - dürfen -12-0
+v-vyprávět/vypravovat - erzählen -12-0
+v-pomáhat/pomoci (při, s) - helfen (bei, mit) -12-0
+v-mít povinnost - sollen -12-0
+v-mrznout - frieren -12-0
+v-rozhodnout (se)/rozhodovat (se) - (sich) entscheiden -12-0
+v-přát (si) - (sich) wünschen -12-0
+v-poděkovat - danken -12-0
+v-jet/jezdit - fahren -12-0
+v-svítit, zdát se - scheinen -12-0
+v-počítat - rechnen -12-0
+v-nabídnout - anbieten -12-0
+v-darovat/dát - schenken -12-0
+v-(z)kazit (se) - verderben -12-0
+v-doporučit/doporučovat - empfehlen -12-0
+v-mít schůzku/být smluvený - verabredet sein -12-0
+v-pěstovat/provozovat - treiben -12-0
+v-(vy)čistit, uklízet - sauber machen -12-0
+v-opravit/opravovat - reparieren -12-0
+v-prohlédnout si/prohlížet si - (sich) au/sehen -12-0
+v-zastavit/zastavovat - an/halten -12-0
+v-chtít - wollen -12-0
+v-jít spát/jít do postele - zu Bett gehen -12-0
+v-strávit (čas) - verbringen -12-0
+v-nazvat/nazývat, jmenovat - nennen -12-0
+v-pospíšit si - sich beeilen -12-0
+v-česat (se) - (sich) kämmen -12-0
+v-jít dál - weiter/gehen -12-0
+v-lhát - lügen -12-0
+v-postavit, dát - stellen -12-0
+v-(za)vést/vodit - führen -12-0
+v-změnit/proměnit - verwandeln -12-0
+v-sedět - sitzen -13-0
+v-stát se/přihodit se - passieren -12-0
+v-zvítězit/porazit - besiegen -12-0
+v-představit (se) - (sich) vorstellen -12-0
+v-tvrdit - behaupten -12-0
+v-napadnout - ein/fallen -12-0
+v-dávat pozor/dohlížet - aufpassen-12-0
+v-mít rád/mít chuť - mögen -12-0
+v-počítat - zählen -12-0
+v-popřemýšlet - überlegen-12-0
+v-namáhat se - anstrengen-12-0
+v-slíbit - versprechen-12-0
+v-konat se - stattfinden-12-0
+v-potit se - schwitzen-12-0
+v-ukázat/ukazovat - zaigen -12-0
+v-vyřídit/zařídit - erledigen -12-0
+v-dorazit/dostavit se - ankommen/eintreffen-12-0
+v-foukat/vát - wehen-12-0
+v-ztratit - verlieren-12-0
+v-následovat - nachgehen-12-0
+v-požehnat/žehnat - segnen-12-0
+v-dosahovat - reichen-12-0
+v-stáhnout - herunterladen-12-0
+v-vymyslet/vynalézt/objevit - erfinden-12-0
+v-obklopovat - umgeben-12-0
+v-sbírat - sammeln-12-0
+v-chránit - beschützen-12-0
+v-zkoumat/prozkoumat - erforschen-12-0
+v-hlučet - lärmen-12-0
+v-promrhat, promarnit - verschwenden-12-0
+v-bolet - schmerzen-12-0
+v-promluvit si - besprechen-12-0
+v-poslat - schicken-12-0
+v-sdělit/oznámit - mitteilen-12-0
+v-sklonit/ohnout - beugen-12-0
+v-křičet/řvát - schreien-12-0
+v-cítit/pociťovat - spüren-12-0
+v-rozdělit/dělit - teilen-12-0
+v-udeřit/vrazit - stoßen-12-0
+v-zadat/vložit - eingeben-12-0
+v-příst/vrnět - schnurren-12-0
+v-potřebovat - brauchen-12-0
+v-zapnout (počítač..) - einschalten-12-0
+v-obléct - anziehen-12-0
+v-hýbat - regen-12-0
+v-podařit se - gelingen-12-0
+v-posbírat se - aufrappeln-12-0
+v-štěkat - bellen-12-0
+v-natáhnout/roztáhnout - ausstrecken-12-0
+v-hvízdat (pták) - flöten-12-0
+v-zastavit se/navštívit - vorbeikommen-12-0
+v-skočit/skákat - springen-12-0
+v-mumlat/brumlat - brummeln-12-0
+v-zívat - gähnen-12-0
+v-odtáhnout - wegziehen-12-0
+v-sténat/vzdychat - ächzen-12-0
+v-zvládnout/dokázat - hinkriegen-12-0
+v-vypnout - ausschalten-12-0
+v-nalepit - aufkleben-12-0
+v-podat - reichen-12-0
+v-mrkat/mžourat - blinzeln-12-0
+v-vklouznout - schlüpfen-12-0
+v-hodit - werfen-12-0
+v-vonět - duften-12-0
+v-hihňat se - kichern-12-0
+v-rozrušit/rozčílit - aufregen-12-0
+v-pohrabat/uhrabat - rechen-12-0
+v-chválit - loben-12-0
+v-oznámit - verkünden-12-0
+v-růst - wachsen-12-0
+v-stříkat/cákat - spritzten-12-0
+v-listovat - blättern-12-0
+v-přesvědčit - überzeugen/überreden-12-0
+v-hladit/pohladit - streichen-12-0
+v-ráčit vejít - hereinspazieren-12-0
+v-předpovědět - voraussagen-12-0
+v-(s)polknot - schlucken-12-0
+v-nadávat - schimpfen-12-0
+v-dopadnout - ausfallen-12-0
+v-pozdravit - begrüßen-12-0
+v-zapištět/vykřiknout - quietschen-12-0
+v-bubnovat - trommeln-12-0
+v-vlastnit/mít - besitzen-12-0
+v-zaslechnout/dozvědět se - mitbekommen-12-0
+v-popudit/rozhořčit - empört-12-0
+v-otvírat se - klaffen-12-0
+v-sklopit - senken-12-0
+v-houpat se, viset - baumeln-12-0
+v-vstát - aufstehen-12-0
+v-přeškrtnout - durchstreichen-12-0
+v-kývnout/pokyvovat - nicken-12-0
+v-přísahat/složit přísahu - schwören-12-0
+v-namalovat/nakreslit - ziehen-12-0
+v-rozdávat - austeilen-12-0
+v-chytnout/chopit se - greifen-12-0
+v-rozhlédnout se - umsehen/blicken in die Runde-12-0
+v-šklebit se (posmívat se) - grinsen-12-0
+v-sténat/naříkat - stöhnen-12-0
+v-zářit/svítit - strahlen/leuchten-12-0
+v-šeptat - flüstern-12-0
+v-svalit se/spadnout - purzeln-12-0
+v-vzdychnout/vzdychat - seufzen-12-0
+v-nasadit si - aufsetzen-12-0
+v-sejmout/sundat - abnehmen-12-0
+v-zvednout - hoben-12-0
+v-rozzlobit/rozzuřit - erbosen-12-0
+v-poplácat/popleskat - tätscheln-12-0
+v-(za)třást - schütteln-12-0
+v-kmitnout se/mihnout se - huschen-12-0
+v-míchat, vměšovat se - mischen-12-0
+v-vypočítat - ausrechnen-12-0
+v-mrsknout (hodit) - pfeffern-12-0
+v-zaútočit/napadnout - angreifen-12-0
+v-uhánět/řítit se - flitzen-12-0
+v-sevřít - klemmen-12-0
+v-drbat - kraulen-12-0
+v-lusknout (prsty) - schnippen-12-0
+v-(vy)drhnout - schrubben-12-0
+v-způsobit/provést - anrichten-12-0
+v-dřepět - hocken-12-0
+v-uniknout/vyváznout - davonkommen-12-0
+v-ztuhnout - erstarren-12-0
+v-zvonit/cinkat - bimmeln-12-0
+v-tlačit se/cpát se - drängen-12-0
+v-respektovat/všímat si - beachten-12-0
+v-kroužit/projíždět se - herumkurven-12-0
+v-potulovat se - herumstreunen-12-0
+v-zmizet/ztratit se - verschwunden-12-0
+v-opatrnost - die Vorsicht-12-0
+v-převzít/přijmout - entgegennehmen-12-0
+v-dunět/burácet - dröhnen-12-0
+v-rozhodnout se - beschließen-12-0
+v-svědit - kribbeln-12-0
+v-prskat, odfrknout si - prusten-12-0
+v-nabourat/narazit - rammen-12-0
+v-plivat - spucken-12-0
+v-mluvit nosem/huhňat - näseln-12-0
+v-pozvednout/vznést - erheben-12-0
+v-vřískat/ječet - kreischen-12-0
+v-zírat/civět/čumět - anglotzten-12-0
+v-cvičit/trénovat - üben-12-0
+v-hnát - treiben-12-0
+v-bědovat/naříkat - jammern-12-0
+v-Odejdi! - Zieh Leine!-12-0
+v-připoutat/připásat - festschnallen-12-0
+v-odložit si - ablegen-12-0
+v-oznámit/ohlásit - ankündigen-12-0
+v-předčítat/číst nahlas - vorlesen-12-0
+v-zříci se/vzdát se - verzichten-12-0
+v-nenávidět/nesnášet - hassen-12-0
+v-šťourat se/dloubat se - stochern-12-0
+v-natáhnout - recken-12-0
+v-stěžovat si - beschweren-12-0
+v-cupitat - trippeln-12-0
+v-řídit (auto) - steuern-12-0
+v-zapnout (spínačem) - anknipsen-12-0
+v-kýchnout/kýchat - niesen-12-0
+v-uklidnit - beruhigen-12-0
+v-selhat - versagen-12-0
+v-objevit - entdecken-12-0
+v-uklonit se/poklonit se - verbeugen-12-0
+v-pokračovat - weitermachen-12-0
+v-být přilepený - kleben-12-0
+v-načmárat - kritzeln-12-0
+v-skřípat - dudeln-12-0
+v-posbírat/sesbírat - einsammeln-12-0
+v-přihrát - zuspielen-12-0
+v-bát se/obávat se - fürchten-12-0
+v-pokárat - zurechtweisen-12-0
+v-stačit - ausreichen-12-0
+v-vzniknout - entstehen-12-0
+v-kousat - kauen-15-0
+v-hádat/hloubat -  rätseln-15-0
+v-obsahovat/zahrnovat - enthalten -15-0
+v-vědět - wissen -15-0
+v-posadit se - sich setzen -15-0
