@@ -1,0 +1,250 @@
+n-zrak/pohled - der Blick-11-1
+n-písmeno - der Buchstabe-9-1
+n-díra/otvor - das Loch-5-1
+n-lístek/cedule - der Zettel-10-1
+n-opak/protiklad - das Gegenteil-7-1
+n-igelitový sáček - die Plastiktüte-8-1
+n-doučování - die Nachhilfestunde-8-1
+n-řešení - die Lösung-13-1
+n-vztek/zlost - die Wut-3-1
+n-kraj/okraj - der Rand-13-1
+n-zbraň - die Waffe -12-1
+n-záloha - das Pfandgeld-0-0
+n-skladník - der Lagerarbeiter-0-0
+n-přítomnost - die Anwesenheit-0-0
+n-kolega - der Kollege -13-0
+n-poštovní známka - die Briefmarke -13-0
+n-náramek - das Armband -12-0
+n-křižovatka - die Kreuzung -12-0
+n-povolání - der Beruf -12-0
+n-hrad - die Burg -12-0
+n-fenik - der Pfeenig -12-0
+n-věčnost - die Ewichkeit -12-0
+n-brána - das Tor -12-0
+n-kyselé zelí - das Sauerkraut -12-0
+n-učitel - der Lehrer -12-0
+n-okno - das Fenster -12-0
+n-snídaně - das Frühstück -12-0
+n-prodejní pult - der Landentisch -12-0
+n-vesnice - das Dorf -12-0
+n-salám - die Wurst -12-0
+n-vyobrazení - das Abbild -12-0
+n-velikost - die Größe -12-0
+n-židle - der Stuhl -12-0
+n-chleba - das Brot -12-0
+n-pohádka - das Märchen -12-0
+n-ohrožení - die Bedrohung -12-0
+n-kufr - der Koffer -12-0
+n-šaty - das Kleid -12-0
+n-klobása - die Bochwurst -12-0
+n-chyba - der Fehler -12-0
+n-kus/kousek - das Stück -12-0
+n-teta - die Tante -12-0
+n-regál, police - das Regal -12-0
+n-slunce - die Sonne -12-0
+n-sýr - der Käse -12-0
+n-bota - der Schuh -12-0
+n-oblek - der Anzug -12-0
+n-pomsta - die Rache -12-0
+n-knedlík - der Knödel -12-0
+n-obránci - der Verteidiger -12-0
+n-prohlídka - die Besichtigung -12-0
+n-komár - die Mücke -12-0
+n-byt - die Wohnung -12-0
+n-dojem - der Eindruck -12-0
+n-chata/chalupa - das Wochenendhaus -12-0
+n-patro - das Geschoß -12-0
+n-pomník - das Denkmal -12-0
+n-host - der Gast -12-0
+n-jaro - der Frühling -12-0
+n-radost/potěšení - die Freude -12-0
+n-prázdnota - die Leere -12-0
+n-kraj/krajina - die Gegend -12-0
+n-podzim - der Herbst -12-0
+n-svoboda - die Freiheit -12-0
+n-víno - der Wein -12-0
+n-zajetí - die Gefangenschaft -12-0
+n-strach - die Angst -12-0
+n-zeď - die Wand -12-0
+n-hl. město - die Haupstadt -12-0
+n-podnik/závod - der Betrieb -12-0
+n-recepční - der Empfangschef -12-0
+n-obchodní dům - das Warenhaus -12-0
+n-kostel - die Kirche -12-0
+n-skříň - der Schrank -12-0
+n-chlapec/choch/kluk - der Junge -12-0
+n-most - die Brücke -12-0
+n-pohlednice/pohled - die Ausichskarte -12-0
+n-vyhlídka - die Aussicht -12-0
+n-společnost - die Gesselschaft -12-0
+n-strýc - der Onkel -12-0
+n-haléř - der Heller -12-0
+n-roh - die Ecke -12-0
+n-šunka - der Schinken -12-0
+n-maso - das Fleisch -12-0
+n-kroj - die Tracht -12-0
+n-vzhled - die Gestalt -12-0
+n-zelenina - das Gemüse -12-0
+n-kouzelnictví/čáry - die Zauberei -12-0
+n-koruna - die Krone -14-0
+n-čaj - der Tee -12-0
+n-prodavačka - die Verkäuferin -12-0
+n-les - der Wald -12-0
+n-čtvrt/čtvrť - das Viertel -12-0
+n-hodina - die Stunde -12-0
+n-řetízek/náhrdelník - die Kette -12-0
+n-koláč - der Kuchen -12-0
+n-sekretářka - die Sekretärin -12-0
+n-dárek - das Geschenk -12-0
+n-člun/loďka - der Kahn -12-0
+n-káva - der Kaffee -12-0
+n-houska - das Brötchen -12-0
+n-deštník - der Regenschirm -12-0
+n-trpělivost - die Geduld-12-0
+n-prádlo - die Wäsche -12-0
+n-oddělení - die Abteilung -12-0
+n-jih - der Süden -12-0
+n-pot - der Schweiß-12-0
+n-úkol - die Aufgabe-12-0
+n-řidičák - der Führensehein -12-0
+n-skála - der Felsen-12-0
+n-pohyb - die Bewegung-12-0
+n-náklad - die Ladung-12-0
+n-marka - die Mark -12-0
+n-přístav - der Hafen-12-0
+n-zákazník - die Kunde-12-0
+n-obchod/krám - der Laden-12-0
+n-oblast/krajina - das Gebiet-12-0
+n-činnost/práce - die Beschäftigung-12-0
+n-kůže - die Haut-12-0
+n-stráň/svah/úbočí - der Abhang-12-0
+n-výraz - der Ausdruck-12-0
+n-bič - die Paitsche-12-0
+n-tvář/obličej - das Antlitz-12-0
+n-básník - der Dichter-12-0
+n-požehnání - der Segen-12-0
+n-konev - die Kanne-12-0
+n-vtip - der Witz-12-0
+n-příkop - der Graben-12-0
+n-šuplík/zásuvka - die Schublade-12-0
+n-křídlo - der Flügel-12-0
+n-kopyto - der Huf-12-0
+n-podlaha - der (Fuß)Boden-12-0
+n-oko - das Auge-12-0
+n-hrudník - die Brust-12-0
+n-koberec - der Teppich-12-0
+n-ovladač - der Regler-12-0
+n-statkář - der Gutsherr-12-0
+n-strop - die Decke-12-0
+n-tráva - das Gras-12-0
+n-záda - der Rücken-12-0
+n-paže - der Arm-12-0
+n-nálada - die Laune-12-0
+n-ulice/ulička - die Gasse-12-0
+n-rostlina - die Pflanze-12-0
+n-kostka/krychle - der Würfel-12-0
+n-hora - der Berg-12-0
+n-rohlík - das Hörnchen-12-0
+n-váza - die Vase-12-0
+n-křeslo - der Sessel-12-0
+n-láhev - die Flasche-12-0
+n-sedačka/pohovka - die Couch/das Sofa-12-0
+n-zobák - der Schnabel-12-0
+n-míček - der Ball-12-0
+n-lovecký pes - der Jagdhund-12-0
+n-hrnek - die Tasse-12-0
+n-list - das Blatt-12-0
+n-talíř - der Teller-12-0
+n-nemotora/motovidlo - die Tollpatsch-12-0
+n-netopýr - die Fledermaus-12-0
+n-bylina - das Kraut-12-0
+n-ponožka - die Socke-12-0
+n-zvíře - das Tier-12-0
+n-máslo - die Butter-12-0
+n-majitel - der Inhaber-12-0
+n-topení - die Heizung-12-0
+n-dráp/pařát - die Kralle-12-0
+n-křemen/oblázek - der Kieselstein-12-0
+n-dlaň - der Hand-12-0
+n-vyučování - der Unterricht-12-0
+n-rameno - die Schulter-12-0
+n-miska - die Schüssel-12-0
+n-rozčílení/vzrušení - die Aufregung-12-0
+n-kadeř - die Locke-12-0
+n-noviny - die Zeitung-12-0
+n-herec - der Schauspieler-12-0
+n-mezera/skulina - der Spalt-12-0
+n-hromada - der Stapel-12-0
+n-cesta - die Bahn-12-0
+n-štěrk - der Kies-12-0
+n-hlas - die Stimme-12-0
+n-výkon - die Leistung-12-0
+n-věštec - der Wahrsager-12-0
+n-budoucnost - die Zukunft-12-0
+n-želva - die Schildkröte-12-0
+n-linie/čára - die Linie-12-0
+n-řada - die Reihe-12-0
+n-koloběžka - der Roller-12-0
+n-brýle - die Brille-12-0
+n-ruské kolo - das Reisenrad-12-0
+n-pozdrav - der Gruß-12-0
+n-výsledek - das Ergebnis-12-0
+n-prcek/drobek - das Kerlchen-12-0
+n-klín - der Schoß-12-0
+n-jazyk - die Zunge-12-0
+n-nůž - das Messer-12-0
+n-základ - die Grundlage-12-0
+n-návštěvník - der Besucher-12-0
+n-oznámení/ohlášení - die Ankündigung-12-0
+n-přerušení/zastavení - die Unterbrechung-12-0
+n-leknutí/úlek - der Schreck-12-0
+n-přísaha (slavnostní slib) - der Schwur-12-0
+n-širák (klobouk) - der Schlapphut-12-0
+n-známka (ve škole) - die Note-12-0
+n-překvapení - die Überraschung-12-0
+n-nos - die Nase-12-0
+n-předtucha/tušení/zdání - die Ahnung-12-0
+n-výraz tváře - die Miene-12-0
+n-zubař - der Zahnarzt-12-0
+n-had - die Schlange-12-0
+n-zpráva/informace - der Bescheid-12-0
+n-zlo/neštěstí - das Unheil-12-0
+n-sklípkan - die Vogelspinne-12-0
+n-osel - der Esel-12-0
+n-reproduktor - der Lautsprecher-12-0
+n-zábradlí - das Geländer-12-0
+n-pupínek - der Pickel-12-0
+n-hrnec - der Topf-12-0
+n-půlkruh - der Halbkreis-12-0
+n-mravenec - die Ameise-12-0
+n-vstupní dveře - die Eingangstür-12-0
+n-hvězda - der Stern-12-0
+n-vstup/přístup - der Zutritt-12-0
+n-obloha/nebe - der Himmel-12-0
+n-směr - die Richtung-12-0
+n-síla/nápor - die Wucht-12-0
+n-klakson - die Hupe-12-0
+n-odpadkový koš - der Abfalleimer-12-0
+n-dopravní prostředek - das Fahrzeug-12-0
+n-tlapa - die Pfote-12-0
+n-hrdost/pýcha - der Stolz-12-0
+n-krk - der Hals-12-0
+n-dech - die Luft-12-0
+n-zákusek/dezert - der Nachtisch-12-0
+n-náramkové hodinky - der Armbanduhr-12-0
+n-řetěz - die Kette-12-0
+n-klobouk - der Hut-12-0
+n-rozhodnutí - die Entscheidung-12-0
+n-čelo - die Stirn-12-0
+n-pampeliška - der Löwenzahn-12-0
+n-ostrov - die Insel-12-0
+n-horská dráha - die Achterbahn-12-0
+n-záloha na láhev - das Flaschenpfand-12-0
+n-číslo/počet - die Zahl-12-0
+n-voda - das Wasser -16-0
+n-dav/vřava - das Getümmel-15-0
+n-palec (na ruce) - die Daumen-15-0
+n-paměť - die Erinnerung-15-0
+n-rodná země/vlast - das Heimatland-15-0
+n-straka - die Elster-15-0
+n-soused - der Nachbar-15-0
