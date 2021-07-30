@@ -238,7 +238,7 @@ doporučit/doporučovat - empfehlen -12-0
 pohlednice/pohled - die Ausichskarte -12-0
 mít schůzku/být smluvený - verabredet sein -12-0
 vyhlídka - die Aussicht -12-0
-pěstovat/provozovat - treiben -12-0
+pěstovat/provozovat, hnát - treiben -12-0
 dřívější/bývalý - ehemalig -12-0
 společnost - die Gesselschaft -12-0
 strýc - der Onkel -12-0
@@ -298,7 +298,7 @@ představit (se) - (sich) vorstellen -12-0
 koláč - der Kuchen -12-0
 z - aus -12-0
 sekretářka - die Sekretärin -12-0
-proto - deshalb -12-0
+proto - deshalb/daher -12-0
 dárek - das Geschenk -12-0
 člun/loďka - der Kahn -12-0
 jako - als -12-0
@@ -366,7 +366,6 @@ podivný/zvláštní - seltsam-12-0
 chránit - beschützen-12-0
 stráň/svah/úbočí - der Abhang-12-0
 pečlivý/svědomitý - sorgfältig-12-0
-proto - daher-12-0
 výraz - der Ausdruck-12-0
 zkoumat/prozkoumat - erforschen-12-0
 bič - die Paitsche-12-0
@@ -645,7 +644,6 @@ vřískat/ječet - kreischen-12-0
 zírat/civět/čumět - anglotzten-12-0
 naproti - drüben-12-0
 cvičit/trénovat - üben-12-0
-hnát - treiben-12-0
 bědovat/naříkat - jammern-12-0
 Odejdi! - Zieh Leine!-12-0
 sotva - kaum-12-0
