@@ -11,6 +11,7 @@ from Processed_file_data import (Processed_line,
 from random import shuffle
 
 OPTION = 0
+CHUNK_OPTION = 0
 
 start = 0
 
@@ -100,6 +101,10 @@ class Menu():
         self.menu.destroy()
         start()
 
+
+class Game():
+    def __init__(self):
+        pass
 
 class Connection():
     def __init__(self, btn1, btn2):
@@ -287,6 +292,16 @@ def submit():
         submit_btn['text'] = 'check'
         checked_flag = 0
 
+def display_chunk_numbers(val):
+    for i in range(0, val):
+        #display number with option
+        btn = tkinter.Button(text=str(i))
+        btn['command'] = lambda: save_chunk_option(i)
+        btn.Pack()
+
+def save_chunk_option(val):
+    global CHUNK_OPTION
+    CHUNK_OPTION = val
 
 with open('vocabulary_de.txt', 'r', encoding='utf-8') as f:
     lines = f.read()
