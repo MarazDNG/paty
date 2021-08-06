@@ -16,7 +16,7 @@ pohnout - bewegen-10-1
 pozítří - übermorgen-5-1
 prázdný - leer-1-1
 lichotit - schmeicheln-10-1
-cvičebnice - Übungsheft-0-1
+cvičebnice - Übungsheft-1-1
 mazaný/chytrý - schlau-11-1
 lístek/cedule - der Zettel-10-1
 svěřit - anvertrauen-0-1
@@ -28,10 +28,10 @@ snažit se - bemühen-5-1
 oslňující - blenden-0-1
 zkušený - erfahren-6-1
 Na zdraví! - Gesundheit!-12-1
-opak/protiklad - das Gegenteil-7-1
+opak/protiklad - das Gegenteil-0-1
 zarazit se - stutzen-10-1
-igelitový sáček - die Plastiktüte-8-1
-doučování - die Nachhilfestunde-8-1
+igelitový sáček - die Plastiktüte-9-1
+doučování - die Nachhilfestunde-0-1
 hloupý - dumm/blöd-8-1
 (za)znít - tönen-0-1
 něžný - zärtlich-6-1

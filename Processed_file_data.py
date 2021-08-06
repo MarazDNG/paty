@@ -36,7 +36,6 @@ class Processed_file_data():
         self.practice_words_list = []
         self.chunk_words_list = []
         self.done_words_list = []
-        print('jsipica')
 
         for line in file_lines:
             temp = Processed_line(line)
